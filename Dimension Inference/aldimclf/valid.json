@@ -1,0 +1,142 @@
+[
+ [
+  "28 ddr error(s) detected and corrected on rank 0, symbol 21 over 11562 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "total of 5 ddr error(s) detected and corrected over 151.8 [MASK]",
+  "min",
+  10
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 4812 [MASK] @ 358800 took 1.053312 secs. to complete, 5 reads >= 1 sec.",
+  "bytes",
+  3
+ ],
+ [
+  "total of 1 ddr error(s) detected and corrected over 0.6908 [MASK]",
+  "h",
+  11
+ ],
+ [
+  "applethunderboltgenerichal::earlywake - complete - took 0 [MASK]",
+  "milliseconds",
+  8
+ ],
+ [
+  "reading broadcast variable 12 took 30000 [MASK]",
+  "us",
+  7
+ ],
+ [
+  "pm response took 33.5000 [MASK] (54, powerd)",
+  "min",
+  10
+ ],
+ [
+  "hibernate_setup(0) took 4.4290 [MASK]",
+  "s",
+  5
+ ],
+ [
+  "pm response took 2010 [MASK] (54, powerd)",
+  "ms",
+  4
+ ],
+ [
+  "hibernate_setup(0) took 0.0738 [MASK]",
+  "min",
+  10
+ ],
+ [
+  "[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] memory limit: 96258.00 [MASK] free: 95746.00 mb",
+  "mb",
+  1
+ ],
+ [
+  "failed to renew lease for [dfsclient_nonmapreduce_1537864556_1] for 166 [MASK]  will retry shortly ...",
+  "sec",
+  6
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 4321 bytes @ 48 took 0.607292 [MASK] to complete, 7 reads >= 0.5 sec.",
+  "sec",
+  6
+ ],
+ [
+  "full wake request (reason 2) 30914 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "block broadcast_11 stored as values in memory (estimated size 9.2 [MASK] free 353.9 kb)",
+  "kb",
+  0
+ ],
+ [
+  "vm_compressor_fastwake_warmup completed - took 12461 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "applethunderboltgenerichal::earlywake - complete - took 1 [MASK]",
+  "milliseconds",
+  8
+ ],
+ [
+  "hibernate_newruntime_map time: 0 [MASK] iopolledfilepollersopen(), ml_get_interrupts_enabled 0",
+  "min",
+  10
+ ],
+ [
+  "hibernate_machine_init pagesdone 451550 sum2 4886d9d9, time: 0.197 sec disk(0x20000) 799 mb/s, comp [MASK]: 38.16 time: 27 ms 1412 mb/s, crypt bytes: 160550912 time: 39 ms 3904 mb/s",
+  "mb",
+  1
+ ],
+ [
+  "finished task 34.0 in stage 27.0 (tid 1274). 1.9e-6 [MASK] result sent to driver",
+  "gb",
+  2
+ ],
+ [
+  "[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] took 1.02 [MASK] to destroy the instance on the hypervisor.",
+  "sec",
+  6
+ ],
+ [
+  "pm response took 129 [MASK] (10018, qq)",
+  "ms",
+  4
+ ],
+ [
+  "reading broadcast variable 19 took 0.012 [MASK]",
+  "s",
+  5
+ ],
+ [
+  "[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] total disk: 15 gb, used: 0.00 [MASK]",
+  "gb",
+  2
+ ],
+ [
+  "[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] attempting claim: memory 2048 [MASK] disk 20 gb, vcpus 1 cpu",
+  "mb",
+  1
+ ],
+ [
+  "dentry cache hash table entries: 16384 (order: 4, 64 [MASK]",
+  "kb",
+  0
+ ],
+ [
+  "pm response took 0.0225 [MASK] (54, powerd)",
+  "day",
+  9
+ ],
+ [
+  "kind: yarn_am_rm_token, service: , ident: (appattemptid { application_id { id: 20 [MASK] 1445144423722 } attemptid: 1 } keyid: -127633188)",
+  "us",
+  7
+ ]
+]

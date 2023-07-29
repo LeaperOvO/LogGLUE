@@ -1,0 +1,278 @@
+[
+ [
+  "setgoalnotifishownrecord 1514044800237 false",
+  "1514044800237",
+  "COUNT",
+  1
+ ],
+ [
+  "shuffle port returned by containermanager for attempt_1445144423722_0020_m_000003_0 : 13562",
+  "13562",
+  "STATE",
+  2
+ ],
+ [
+  "1 failures on node minint-fnanli5.fareast.corp.microsoft.com",
+  "1",
+  "COUNT",
+  1
+ ],
+ [
+  "checkcurrentday a new day comes , reset basicsynccondition, currentday is 20171224 oldday is 20171223",
+  "20171224",
+  "VAR",
+  0
+ ],
+ [
+  "started reading broadcast variable 2",
+  "2",
+  "VAR",
+  0
+ ],
+ [
+  "full wake request (reason 2) 30914 ms",
+  "30914",
+  "COUNT",
+  1
+ ],
+ [
+  "rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) psr0=00001f01 psr1=00000000 prxf=00000002 pixf=00000007",
+  "00000002",
+  "VAR",
+  0
+ ],
+ [
+  "num completed tasks: 1",
+  "1",
+  "COUNT",
+  1
+ ],
+ [
+  "mod_jk child init 1 -2",
+  "-2",
+  "STATE",
+  2
+ ],
+ [
+  "sqm: queued 0 file(s) for upload with pattern: c:\\windows\\servicing\\sqm\\*_all.sqm, flags: 0x6",
+  "0",
+  "COUNT",
+  1
+ ],
+ [
+  "thedaychanged 1514044800216",
+  "1514044800216",
+  "COUNT",
+  1
+ ],
+ [
+  "subsystem revision 20040816",
+  "20040816",
+  "VAR",
+  0
+ ],
+ [
+  "pci interrupt link [lnkb] (irqs 3 4 5 6 7 10 *11 12)",
+  "3",
+  "STATE",
+  2
+ ],
+ [
+  "could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0",
+  "74490",
+  "VAR",
+  0
+ ],
+ [
+  "tcp_connection_handle_connect_conditions_bad 26042 failed: 3 - no network route",
+  "3",
+  "COUNT",
+  1
+ ],
+ [
+  "fan speeds ( 3552 3534 3391 **** 3515 3479 )",
+  "3552",
+  "COUNT",
+  1
+ ],
+ [
+  "error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) psr0=00001f01 psr1=00000000 prxf=00000002 pixf=00000007",
+  "3",
+  "STATE",
+  2
+ ],
+ [
+  "action_battery_changed pluggedtype: 0",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "dnssd_clientstub connecttoserver: connect()-> no of tries: 1",
+  "1",
+  "COUNT",
+  1
+ ],
+ [
+  "pid hash table entries: 512 (order 9: 4096 bytes)",
+  "512",
+  "COUNT",
+  1
+ ],
+ [
+  "hash tables configured (established 262144 bind 65536)",
+  "262144",
+  "COUNT",
+  1
+ ],
+ [
+  "pci: pci bios revision 2.10 entry at 0xfc0ce, last bus=1",
+  "2.10",
+  "VAR",
+  0
+ ],
+ [
+  "hibernate_rebuild_pmap_structs done: last_valid_compact_indx 285862",
+  "285862",
+  "VAR",
+  0
+ ],
+ [
+  "2 ddr errors(s) detected and corrected on rank 0, symbol 18, bit 6",
+  "6",
+  "COUNT",
+  1
+ ],
+ [
+  "normal zone: 28334 pages, lifo batch:6",
+  "28334",
+  "COUNT",
+  1
+ ],
+ [
+  "arpt: 683780.224800 : aqm agg results 0x8001 len hi/lo: 0x0 0x26 babitmap(0-3) 0 0 0 0",
+  "683780.224800",
+  "COUNT",
+  1
+ ],
+ [
+  "notification: 3 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), looking (n.state), 3 (n.sid), 0xb (n.peerepoch), following (my state)",
+  "3",
+  "STATE",
+  2
+ ],
+ [
+  "vm_compressor_fastwake_warmup completed - took 12461 msecs",
+  "12461",
+  "COUNT",
+  1
+ ],
+ [
+  "start u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.launcherui (has extras)} from uid 10112 on display 0",
+  "10112",
+  "VAR",
+  0
+ ],
+ [
+  "arpt: 621131.293163: wl0: roamed or switched channel, reason #8, bssid 5c:50:15:4c:18:13, last rssi -64",
+  "-64",
+  "STATE",
+  2
+ ],
+ [
+  "[00:29:04.085] <<<< crabs >>>> crabswaitforload: [0x7fbc7ac683a0] wait time out - -1001 (msrequesttimeout -1)",
+  "-1001",
+  "COUNT",
+  1
+ ],
+ [
+  "file output committer algorithm version is 1",
+  "1",
+  "VAR",
+  0
+ ],
+ [
+  "setwireddeviceconnectionstate  type: -2147483632  state: 0",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096",
+  "315096",
+  "VAR",
+  0
+ ],
+ [
+  "reading broadcast variable 19 took 12 ms",
+  "19",
+  "VAR",
+  0
+ ],
+ [
+  "ciod: message code 0 is not 51 or 4294967295",
+  "51",
+  "COUNT",
+  1
+ ],
+ [
+  "13.client-channel.google.com:443 error : could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061",
+  "10061",
+  "STATE",
+  2
+ ],
+ [
+  "jk2_init() found child 32390 in scoreboard slot 8",
+  "8",
+  "STATE",
+  2
+ ],
+ [
+  "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] total vcpu: 16 vcpu, used: 0.00 vcpu",
+  "0.00",
+  "COUNT",
+  1
+ ],
+ [
+  "started working: 1 available service",
+  "1",
+  "COUNT",
+  1
+ ],
+ [
+  "[14:43:39.854] figagglomeratorsetobjectforkey signalled err=-16020 (kfigstringconformererror_paramerr) (null key) at /library/caches/com.apple.xbs/sources/coremedia/coremedia-1731.15.207/prototypes/legibleoutput/figagglomerator.c line 92",
+  "92",
+  "VAR",
+  0
+ ],
+ [
+  "17:13:03.545 : starting airdrop server for user 501 on wake",
+  "501",
+  "VAR",
+  0
+ ],
+ [
+  "jk2_init() can't find child 2085 in scoreboard",
+  "2085",
+  "STATE",
+  2
+ ],
+ [
+  "[instance: 95960536-049b-41f6-9049-05fc479b6a7c] took 0.46 seconds to deallocate network for instance.",
+  "0.46",
+  "COUNT",
+  1
+ ],
+ [
+  "10666 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+  "10666",
+  "COUNT",
+  1
+ ],
+ [
+  "com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 16227 seconds.  ignoring.",
+  "16227",
+  "COUNT",
+  1
+ ]
+]

@@ -1,0 +1,992 @@
+[
+ [
+  "total of 5 ddr error(s) detected and corrected over 9108 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "device: /dev/sda, temperature changed -2 celsius to 26 [MASK] since last report",
+  "us",
+  7
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt [MASK]: 154728 time: 38 ms 3973 mb/s",
+  "kb",
+  0
+ ],
+ [
+  "mount-cache hash table entries: 512 (order: 0, 4096 [MASK]",
+  "bytes",
+  3
+ ],
+ [
+  "hibernate_page_list_setall time: 603 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 4321 bytes @ 48 took 0.607292 sec. to complete, 7 reads >= 0.5 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "26741629 [MASK] sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 268 seconds",
+  "us",
+  7
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 4321 bytes @ 48 took 607.292 [MASK] to complete, 7 reads >= 0.5 sec.",
+  "milliseconds",
+  8
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 [MASK] comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt bytes: 158441472 time: 38 ms 3973 mb/s",
+  "mb/s",
+  12
+ ],
+ [
+  "failed to renew lease for [dfsclient_nonmapreduce_1537864556_1] for 138 [MASK]  will retry shortly ...",
+  "sec",
+  6
+ ],
+ [
+  "[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] took 20320 [MASK] to spawn the instance on the hypervisor.",
+  "ms",
+  4
+ ],
+ [
+  "block broadcast_11 stored as values in memory (estimated size 9.2 kb, free 353.9 [MASK]",
+  "kb",
+  0
+ ],
+ [
+  "[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] took 0.3178 [MASK] to spawn the instance on the hypervisor.",
+  "min",
+  10
+ ],
+ [
+  "2017-07-02 20:50:47.457 ksfetch[32776/0x7fff79824000] [lvl=2] kshelperreceivealldata() kshelpertool read 1926 [MASK] from stdin.",
+  "bytes",
+  3
+ ],
+ [
+  "[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] attempting claim: memory 2048 mb, disk 20 [MASK] vcpus 1 cpu",
+  "gb",
+  2
+ ],
+ [
+  "hibernate_machine_init pagesdone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 mb/s, comp bytes: 40017920 time: 27 ms 1412 mb/s, crypt bytes: 160550912 time: 39 [MASK] 3904 mb/s",
+  "ms",
+  4
+ ],
+ [
+  "1 [MASK] receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected",
+  "us",
+  7
+ ],
+ [
+  "10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 [MASK] max time in a critical input interrupt.",
+  "sec",
+  6
+ ],
+ [
+  "[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] total memory: 65712128 [MASK] used: 512.00 mb",
+  "kb",
+  0
+ ],
+ [
+  "proxy.cse.cuhk.edu.hk:5070 close, 0 [MASK] sent, 0 bytes received, lifetime <1 sec",
+  "bytes",
+  3
+ ],
+ [
+  "pid hash table entries: 512 (order 9: 4096 [MASK]",
+  "bytes",
+  3
+ ],
+ [
+  "1 [MASK] receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected",
+  "us",
+  7
+ ],
+ [
+  "api.github.com:443 close, 797 bytes sent, 0.004 [MASK] (4.70 kb) received, lifetime 00:11",
+  "gb",
+  2
+ ],
+ [
+  "tcpconn.tencent.com:80 close, 133 [MASK] sent, 0 bytes received, lifetime <1 sec",
+  "bytes",
+  3
+ ],
+ [
+  "[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] total memory: 64172 [MASK] used: 512.00 mb",
+  "mb",
+  1
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt [MASK]: 0.1475 time: 38 ms 3973 mb/s",
+  "gb",
+  2
+ ],
+ [
+  "applethunderboltnhitype2::prepciwake - power up complete - took 0.002 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "applethunderboltgenerichal::earlywake - complete - took 0 [MASK]",
+  "us",
+  7
+ ],
+ [
+  "applethunderboltgenerichal::earlywake - complete - took 1000 [MASK]",
+  "us",
+  7
+ ],
+ [
+  "hibernate_newruntime_map time: 0 [MASK] iopolledfilepollersopen(), ml_get_interrupts_enabled 0",
+  "h",
+  11
+ ],
+ [
+  "hibernate_machine_init pagesdone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 mb/s, comp bytes: 40017920 time: 27 [MASK] 1412 mb/s, crypt bytes: 160550912 time: 39 ms 3904 mb/s",
+  "ms",
+  4
+ ],
+ [
+  "api.github.com:443 close, 797 bytes sent, 4.7 [MASK] (4.70 kb) received, lifetime 00:11",
+  "kb",
+  0
+ ],
+ [
+  "18507114 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 198 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] total disk: 15360 [MASK] used: 0.00 gb",
+  "mb",
+  1
+ ],
+ [
+  "tcpconn.tencent.com:80 close, 0.1 [MASK] sent, 0 bytes received, lifetime <1 sec",
+  "kb",
+  0
+ ],
+ [
+  "reading broadcast variable 12 took 0.03 [MASK]",
+  "s",
+  5
+ ],
+ [
+  "[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] took 450 [MASK] to deallocate network for instance.",
+  "ms",
+  4
+ ],
+ [
+  "[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] took 19.92 [MASK] to build instance.",
+  "sec",
+  6
+ ],
+ [
+  "[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] took 19.79 [MASK] to build instance.",
+  "sec",
+  6
+ ],
+ [
+  "nfs mount failed on bglio91, slept 15 [MASK] retrying (1)",
+  "sec",
+  6
+ ],
+ [
+  "block broadcast_25_piece0 stored as bytes in memory (estimated size 5.7 kb, free 0.3999 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "finished task 34.0 in stage 27.0 (tid 1274). 0.002 [MASK] result sent to driver",
+  "mb",
+  1
+ ],
+ [
+  "0 microseconds spent in the rbs signal handler during 0 calls. 0 [MASK] was the maximum time for a single instance of a correctable ddr.",
+  "sec",
+  6
+ ],
+ [
+  "failed to renew lease for [dfsclient_nonmapreduce_1537864556_1] for 341 [MASK]  will retry shortly ...",
+  "sec",
+  6
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 4321 bytes @ 48 took 0.607292 sec. to complete, 7 reads >= 500 [MASK]",
+  "milliseconds",
+  8
+ ],
+ [
+  "com.apple.softwareupdate.activity: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 1.7636 [MASK]  ignoring.",
+  "h",
+  11
+ ],
+ [
+  "wake time set -0.331349 [MASK]",
+  "s",
+  5
+ ],
+ [
+  "[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] memory limit: 96258.00 [MASK] free: 95746.00 mb",
+  "mb",
+  1
+ ],
+ [
+  "[instance: 95960536-049b-41f6-9049-05fc479b6a7c] took 0.46 [MASK] to deallocate network for instance.",
+  "sec",
+  6
+ ],
+ [
+  "hibernate_machine_init pagesdone 451550 sum2 4886d9d9, time: 0.197 sec disk(0x20000) 799 mb/s, comp [MASK]: 39080 time: 27 ms 1412 mb/s, crypt bytes: 160550912 time: 39 ms 3904 mb/s",
+  "kb",
+  0
+ ],
+ [
+  "0 microseconds spent in the rbs signal handler during 0 calls. 0 [MASK] was the maximum time for a single instance of a correctable ddr.",
+  "sec",
+  6
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 [MASK] disk(0x20000) 847 mb/s, comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt bytes: 158441472 time: 38 ms 3973 mb/s",
+  "ms",
+  4
+ ],
+ [
+  "block broadcast_18_piece0 stored as bytes in memory (estimated size 5.8 kb, free 0.44 [MASK]",
+  "gb",
+  2
+ ],
+ [
+  "total of 3 ddr error(s) detected and corrected over 8732 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "iopolledfilepollersopen(0) 6000 [MASK]",
+  "us",
+  7
+ ],
+ [
+  "booter start at 1251 [MASK] smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms",
+  "ms",
+  4
+ ],
+ [
+  "hibernate_setup(0) took 0.1412 [MASK]",
+  "min",
+  10
+ ],
+ [
+  "pm response took 0.5411 [MASK] (54, powerd)",
+  "h",
+  11
+ ],
+ [
+  "159 ddr error(s) detected and corrected on rank 0, symbol 29 over 2486 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "block broadcast_18_piece0 stored as bytes in memory (estimated size 0.005 [MASK] free 454.4 kb)",
+  "mb",
+  1
+ ],
+ [
+  "dentry cache hash table entries: 16384 (order: 4, 0.06 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "int_src_ovr (bus 0 [MASK] 0 global_irq 2 dfl dfl)",
+  "us",
+  7
+ ],
+ [
+  "block broadcast_18_piece0 stored as bytes in memory (estimated size 5.8 kb, free 454.4 [MASK]",
+  "kb",
+  0
+ ],
+ [
+  "[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] took 20.32 [MASK] to spawn the instance on the hypervisor.",
+  "sec",
+  6
+ ],
+ [
+  "booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 [MASK] tramp 1080 ms",
+  "ms",
+  4
+ ],
+ [
+  "0 microseconds spent in the rbs signal handler during 0 calls. 0 [MASK] was the maximum time for a single instance of a correctable ddr.",
+  "sec",
+  6
+ ],
+ [
+  "26741629 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 268 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] memory limit: 96258.00 mb, free: 95746.00 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "2017-07-07 10:54:41.296 ksfetch[37925/0x7fff79824000] [lvl=2] kshelperreceivealldata() kshelpertool read 1.88 [MASK] from stdin.",
+  "kb",
+  0
+ ],
+ [
+  "[instance: 95960536-049b-41f6-9049-05fc479b6a7c] total memory: 64172 [MASK] used: 512.00 mb",
+  "mb",
+  1
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 21335 bytes @ 5481561 took 0.501237 [MASK] to complete, 16 reads >= 0.5 sec.",
+  "sec",
+  6
+ ],
+ [
+  "com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 270.45 [MASK]  ignoring.",
+  "min",
+  10
+ ],
+ [
+  "full wake promotion (reason 1) 374 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "block rdd_16_1 stored as bytes in memory (estimated size 351.0 b, free 387.4 [MASK]",
+  "kb",
+  0
+ ],
+ [
+  "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] total memory: 64172 [MASK] used: 512.00 mb",
+  "mb",
+  1
+ ],
+ [
+  "[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] memory limit: 96258.00 mb, free: 95746.00 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "pm response took 113 [MASK] (24144, wechat)",
+  "ms",
+  4
+ ],
+ [
+  "com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 0.1878 [MASK]  ignoring.",
+  "day",
+  9
+ ],
+ [
+  "applethunderboltgenerichal::earlywake - complete - took 0 [MASK]",
+  "s",
+  5
+ ],
+ [
+  "eth0: e1000_watchdog: nic link is up 1000 [MASK] full duplex",
+  "mb",
+  1
+ ],
+ [
+  "booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 [MASK] dsply 0, 0 ms, tramp 1080 ms",
+  "ms",
+  4
+ ],
+ [
+  "hibernate_newruntime_map time: 0 [MASK] iopolledfilepollersopen(), ml_get_interrupts_enabled 0",
+  "ms",
+  4
+ ],
+ [
+  "hibernate_machine_init pagesdone 451550 sum2 4886d9d9, time: 197 [MASK] disk(0x20000) 799 mb/s, comp bytes: 40017920 time: 27 ms 1412 mb/s, crypt bytes: 160550912 time: 39 ms 3904 mb/s",
+  "ms",
+  4
+ ],
+ [
+  "booter start at 1251 ms smc 0 [MASK] [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms",
+  "ms",
+  4
+ ],
+ [
+  "hibernate_newruntime_map time: 0 [MASK] iopolledfilepollersopen(), ml_get_interrupts_enabled 0",
+  "ms",
+  4
+ ],
+ [
+  "total of 3 ddr error(s) detected and corrected over 0.1011 [MASK]",
+  "day",
+  9
+ ],
+ [
+  "block broadcast_36 stored as values in memory (estimated size 281.6 kb, free 0.785 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 1769 [MASK]  ignoring.",
+  "sec",
+  6
+ ],
+ [
+  "1 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 4.0667 [MASK]",
+  "min",
+  10
+ ],
+ [
+  "[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] total disk: 15 gb, used: 0.00 [MASK]",
+  "gb",
+  2
+ ],
+ [
+  "1 ddr error(s) detected and corrected on rank 0, symbol 24 over 335 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "pm response took 0.5583 [MASK] (54, powerd)",
+  "h",
+  11
+ ],
+ [
+  "finished task 34.0 in stage 27.0 (tid 1274). 0.002 [MASK] result sent to driver",
+  "mb",
+  1
+ ],
+ [
+  "applethunderboltnhitype2::prepciwake - power up complete - took 2 [MASK]",
+  "us",
+  7
+ ],
+ [
+  "13 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 1.2672 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 [MASK] max time in a critical input interrupt.",
+  "sec",
+  6
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s, comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt bytes: 158441472 time: 38 ms 3973 [MASK]",
+  "mb/s",
+  12
+ ],
+ [
+  "tcpconn.tencent.com:80 close, 133 bytes sent, 0 [MASK] received, lifetime <1 sec",
+  "bytes",
+  3
+ ],
+ [
+  "10722 total interrupts. 0 critical input interrupts. 0 [MASK] total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+  "sec",
+  6
+ ],
+ [
+  "user unknown timed out after 900 [MASK] at sat jun 18 02:23:10 2005",
+  "sec",
+  6
+ ],
+ [
+  "pm response took 0.113 [MASK] (24144, wechat)",
+  "s",
+  5
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 4.69 [MASK] @ 358800 took 1.053312 secs. to complete, 5 reads >= 1 sec.",
+  "kb",
+  0
+ ],
+ [
+  "inode-cache hash table entries: 8192 (order: 3, 0.03 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "hibernate_setup(0) took 8.4710 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "block rdd_16_1 stored as bytes in memory (estimated size 351.0 [MASK], free 387.4 kb)",
+  "bytes",
+  3
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 4812 bytes @ 358800 took 1.053312 secs. to complete, 5 reads >= 1 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] took 1.00 [MASK] to destroy the instance on the hypervisor.",
+  "sec",
+  6
+ ],
+ [
+  "nfs mount failed on bglio716, slept 15 [MASK] retrying (1)",
+  "sec",
+  6
+ ],
+ [
+  "booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 0.018 [MASK]",
+  "min",
+  10
+ ],
+ [
+  "finished task 34.0 in stage 27.0 (tid 1274). 2.07 [MASK] result sent to driver",
+  "kb",
+  0
+ ],
+ [
+  "[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] attempting claim: memory 2048 [MASK] disk 20 gb, vcpus 1 cpu",
+  "mb",
+  1
+ ],
+ [
+  "block broadcast_33 stored as values in memory (estimated size 82.1 kb, free 0.0004 [MASK]",
+  "gb",
+  2
+ ],
+ [
+  "hibernate_setup(0) took 8471 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] total memory: 64172 mb, used: 512.00 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "total of 3 ddr error(s) detected and corrected over 145.53 [MASK]",
+  "min",
+  10
+ ],
+ [
+  "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] attempting claim: memory 2048 mb, disk 20 [MASK] vcpus 1 cpu",
+  "gb",
+  2
+ ],
+ [
+  "hibernate_machine_init pagesdone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 mb/s, comp bytes: 40017920 time: 27 ms 1412 mb/s, crypt bytes: 160550912 time: 39 ms 3904 [MASK]",
+  "mb/s",
+  12
+ ],
+ [
+  "hibernate_page_list_setall time: 0.603 [MASK]",
+  "s",
+  5
+ ],
+ [
+  "finished task 1.0 in stage 29.0 (tid 1321). 2.12 [MASK] result sent to driver",
+  "kb",
+  0
+ ],
+ [
+  "scheduled snapshot period at 10 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 4812 bytes @ 358800 took 1.053312 [MASK] to complete, 5 reads >= 1 sec.",
+  "sec",
+  6
+ ],
+ [
+  "block broadcast_36 stored as values in memory (estimated size 281.6 kb, free 823193 [MASK]",
+  "bytes",
+  3
+ ],
+ [
+  "we launched 1 speculations.  sleeping 15000 [MASK]",
+  "milliseconds",
+  8
+ ],
+ [
+  "input size for job job_1445144423722_0020 = 1256521728. [MASK] of splits = 10",
+  "mb",
+  1
+ ],
+ [
+  "api.github.com:443 close, 797 bytes sent, 4814 [MASK] (4.70 kb) received, lifetime 00:11",
+  "bytes",
+  3
+ ],
+ [
+  "block broadcast_33 stored as values in memory (estimated size 82.1 kb, free 486.9 [MASK]",
+  "kb",
+  0
+ ],
+ [
+  "pm response took 1938 [MASK] (54, powerd)",
+  "ms",
+  4
+ ],
+ [
+  "2017-07-07 10:54:41.296 ksfetch[37925/0x7fff79824000] [lvl=2] kshelperreceivealldata() kshelpertool read 1926 [MASK] from stdin.",
+  "bytes",
+  3
+ ],
+ [
+  "sqm: cleaning up report files older than 10 [MASK]",
+  "day",
+  9
+ ],
+ [
+  "inode-cache hash table entries: 8192 (order: 3, 32768 [MASK]",
+  "bytes",
+  3
+ ],
+ [
+  "pm response took 0.0233 [MASK] (54, powerd)",
+  "day",
+  9
+ ],
+ [
+  "[00:29:04.085] <<<< crabs >>>> crabswaitforload: [0x7fbc7ac683a0] wait time out - -1001 [MASK] -1)",
+  "ms",
+  4
+ ],
+ [
+  "full wake request (reason 2) 0.5152 [MASK]",
+  "min",
+  10
+ ],
+ [
+  "[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] took 20.09 [MASK] to spawn the instance on the hypervisor.",
+  "sec",
+  6
+ ],
+ [
+  "10722 total interrupts. 0 critical input interrupts. 0 [MASK] total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+  "sec",
+  6
+ ],
+ [
+  "[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] took 19.84 [MASK] to build instance.",
+  "sec",
+  6
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt [MASK]: 158441472 time: 38 ms 3973 mb/s",
+  "bytes",
+  3
+ ],
+ [
+  "10666 total interrupts. 0 critical input interrupts. 0 [MASK] total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",
+  "sec",
+  6
+ ],
+ [
+  "total of 5 ddr error(s) detected and corrected over 2.53 [MASK]",
+  "h",
+  11
+ ],
+ [
+  "hibernate_machine_init pagesdone 451550 sum2 4886d9d9, time: 0.197 [MASK] disk(0x20000) 799 mb/s, comp bytes: 40017920 time: 27 ms 1412 mb/s, crypt bytes: 160550912 time: 39 ms 3904 mb/s",
+  "sec",
+  6
+ ],
+ [
+  "hibernate_machine_init pagesdone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 [MASK] comp bytes: 40017920 time: 27 ms 1412 mb/s, crypt bytes: 160550912 time: 39 ms 3904 mb/s",
+  "mb/s",
+  12
+ ],
+ [
+  "finished task 34.0 in stage 27.0 (tid 1274). 2128 [MASK] result sent to driver",
+  "bytes",
+  3
+ ],
+ [
+  "int_src_ovr (bus 0 [MASK] 9 global_irq 9 high level)",
+  "us",
+  7
+ ],
+ [
+  "finished task 1.0 in stage 29.0 (tid 1321). 2171 [MASK] result sent to driver",
+  "bytes",
+  3
+ ],
+ [
+  "com.apple.softwareupdate.activity: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 6349 [MASK]  ignoring.",
+  "sec",
+  6
+ ],
+ [
+  "[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] total disk: 15728640 [MASK] used: 0.00 gb",
+  "kb",
+  0
+ ],
+ [
+  "[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] total disk: 15 [MASK] used: 0.00 gb",
+  "gb",
+  2
+ ],
+ [
+  "pm response took 32.466 [MASK] (54, powerd)",
+  "min",
+  10
+ ],
+ [
+  "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] memory limit: 96258.00 [MASK] free: 95746.00 mb",
+  "mb",
+  1
+ ],
+ [
+  "block broadcast_33 stored as values in memory (estimated size 82.1 [MASK] free 486.9 kb)",
+  "kb",
+  0
+ ],
+ [
+  "com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 4.5 [MASK]  ignoring.",
+  "h",
+  11
+ ],
+ [
+  "5 [MASK] receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected",
+  "us",
+  7
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s, comp bytes: 47288320 time: 32 [MASK] 1369 mb/s, crypt bytes: 158441472 time: 38 ms 3973 mb/s",
+  "ms",
+  4
+ ],
+ [
+  "[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] total disk: 15 [MASK] used: 0.00 gb",
+  "gb",
+  2
+ ],
+ [
+  "[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] took 0.45 [MASK] to deallocate network for instance.",
+  "sec",
+  6
+ ],
+ [
+  "[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] took 0.45 [MASK] to deallocate network for instance.",
+  "sec",
+  6
+ ],
+ [
+  "1 [MASK] receiver x+ input pipe error(s) (dcr 0x02ec) detected and corrected",
+  "us",
+  7
+ ],
+ [
+  "18507114 [MASK] sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 198 seconds",
+  "us",
+  7
+ ],
+ [
+  "13 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 76.0333 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "0 [MASK] spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.",
+  "sec",
+  6
+ ],
+ [
+  "0 [MASK] spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.",
+  "sec",
+  6
+ ],
+ [
+  "booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1.08 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "sqm: cleaning up report files older than 240 [MASK]",
+  "h",
+  11
+ ],
+ [
+  "dentry cache hash table entries: 16384 (order: 4, 65536 [MASK]",
+  "bytes",
+  3
+ ],
+ [
+  "checkcurrentday a new day comes , reset basicsynccondition, currentday is 20171224 [MASK] is 20171223",
+  "day",
+  9
+ ],
+ [
+  "wake time set -0.855670 [MASK]",
+  "s",
+  5
+ ],
+ [
+  "0 [MASK] spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.",
+  "sec",
+  6
+ ],
+ [
+  "reading broadcast variable 19 took 12 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s comp [MASK]: 47288320 time: 32 ms 1369 mb/s, crypt bytes: 158441472 time: 38 ms 3973 mb/s",
+  "bytes",
+  3
+ ],
+ [
+  "dquot-cache hash table entries: 1024 (order 0, 4096 [MASK]",
+  "bytes",
+  3
+ ],
+ [
+  "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] attempting claim: memory 2048 [MASK] disk 20 gb, vcpus 1 cpu",
+  "mb",
+  1
+ ],
+ [
+  "time reset +0.182379 [MASK]",
+  "s",
+  5
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 0.02 [MASK] @ 5481561 took 0.501237 sec. to complete, 16 reads >= 0.5 sec.",
+  "mb",
+  1
+ ],
+ [
+  "kern_open_file_for_direct_io took 6 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 20.83 [MASK] @ 5481561 took 0.501237 sec. to complete, 16 reads >= 0.5 sec.",
+  "kb",
+  0
+ ],
+ [
+  "block broadcast_11 stored as values in memory (estimated size 9.2 kb, free 362393.6 [MASK]",
+  "bytes",
+  3
+ ],
+ [
+  "[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] took 19.07 [MASK] to spawn the instance on the hypervisor.",
+  "sec",
+  6
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 21335 bytes @ 5481561 took 0.501237 sec. to complete, 16 reads >= 0.5 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "total of 1 ddr error(s) detected and corrected over 2487 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] attempting claim: memory 2048 mb, disk 20480 [MASK] vcpus 1 cpu",
+  "mb",
+  1
+ ],
+ [
+  "applethunderboltgenerichal::earlywake - complete - took 1 [MASK]",
+  "milliseconds",
+  8
+ ],
+ [
+  "13 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 0.0528 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] memory limit: 96258.00 mb, free: 95746.00 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "reading broadcast variable 31 took 8000 [MASK]",
+  "us",
+  7
+ ],
+ [
+  "user unknown timed out after 0.0104 [MASK] at sat jun 18 02:23:10 2005",
+  "day",
+  9
+ ],
+ [
+  "block broadcast_18_piece0 stored as bytes in memory (estimated size 5.8 [MASK] free 454.4 kb)",
+  "kb",
+  0
+ ],
+ [
+  "applethunderboltgenerichal::earlywake - complete - took 0.001 [MASK]",
+  "s",
+  5
+ ],
+ [
+  "dquot-cache hash table entries: 1024 (order 0, 4 [MASK]",
+  "kb",
+  0
+ ],
+ [
+  "block rdd_16_1 stored as bytes in memory (estimated size 0.342 [MASK], free 387.4 kb)",
+  "kb",
+  0
+ ],
+ [
+  "slow readprocessor read fields took 65020ms (threshold=30000ms); ack: seqno: -2 [MASK] success status: error downstreamacktimenanos: 0, targets: [10.86.169.121:50010, 10.190.173.170:50010]",
+  "us",
+  7
+ ],
+ [
+  "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 [MASK] received, lifetime <1 sec",
+  "bytes",
+  3
+ ],
+ [
+  "booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt [MASK]: 151.1 time: 38 ms 3973 mb/s",
+  "mb",
+  1
+ ],
+ [
+  "full wake request (reason 2) 30.91 [MASK]",
+  "s",
+  5
+ ],
+ [
+  "memorystore started with capacity 17.7 [MASK]",
+  "gb",
+  2
+ ],
+ [
+  "2017-07-06 14:57:16.261 ksfetch[37061/0x7fff79824000] [lvl=2] kshelperreceivealldata() kshelpertool read 1999 [MASK] from stdin.",
+  "bytes",
+  3
+ ],
+ [
+  "booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "2 l3 edram error(s) (dcr 0x0157) detected and corrected over 4.7 [MASK]",
+  "min",
+  10
+ ]
+]

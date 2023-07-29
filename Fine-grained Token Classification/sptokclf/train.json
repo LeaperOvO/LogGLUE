@@ -1,0 +1,2684 @@
+[
+ [
+  "device_generate_lock_screen_screenshot: authw 0x7fa82502bc00(2000)[0, 0, 0, 0] shield 0x7fa823930c00(2001), dev [1440,900]",
+  "dev",
+  "OTHER",
+  1
+ ],
+ [
+  "cgxdisplaydidwakenotification [771797848593539]: posting kcgsdisplaydidwake",
+  "posting",
+  "OTHER",
+  1
+ ],
+ [
+  "error: bind to port 22 on 0.0.0.0 failed: address already in use.",
+  "0.0.0.0",
+  "IP",
+  3
+ ],
+ [
+  "2017-07-05 10:52:16.977 googlesoftwareupdateagent[35861/0x700000323000] [lvl=2] -[ksprefetchaction performaction] ksprefetchaction no updates to prefetch.",
+  "ksprefetchaction",
+  "OTHER",
+  1
+ ],
+ [
+  "2017-07-05 10:52:16.779 ksfetch[35863/0x7fff79824000] [lvl=2] main() fetcher received a request: <nsmutableurlrequest: 0x100501610> { url: https://tools.google.com/service/update2?cup2hreq=a7873a51b1cb55518e420d20dff47d463781ed3f7aa83c3153129eefb148070b&cup2key=7:2501762722 }",
+  "https://tools.google.com/service/update2?cup2hreq=a7873a51b1cb55518e420d20dff47d463781ed3f7aa83c3153129eefb148070b&cup2key=7:2501762722",
+  "URL",
+  0
+ ],
+ [
+  "applethunderboltnhitype2::prepciwake - power up complete - took 1 us",
+  "applethunderboltnhitype2::prepciwake",
+  "FUN",
+  2
+ ],
+ [
+  "received block blk_-5814328448485070742 of size 67108864 from /10.251.74.134",
+  "/10.251.74.134",
+  "IP",
+  3
+ ],
+ [
+  "warning: type1 font data isn't in the correct format required by the adobe type 1 font format specification.",
+  "the",
+  "OTHER",
+  1
+ ],
+ [
+  "insertcallback() onsuccess  type = 0 data=true",
+  "onsuccess",
+  "OTHER",
+  1
+ ],
+ [
+  "skipping, withexcluded: false, tr.intent:intent { flg=0x10804000 cmp= com.android.systemui/.recents.recentsactivity bnds=[264,444][920,908] }",
+  "com.android.systemui/.recents.recentsactivity",
+  "PATH",
+  4
+ ],
+ [
+  "task: attempt_1445144423722_0020_m_000001_0 - exited : java.net.noroutetohostexception : no route to host from  minint-fnanli5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.noroutetohostexception : no route to host: no further information; for more details see:  http://wiki.apache.org/hadoop/noroutetohost",
+  "http://wiki.apache.org/hadoop/noroutetohost",
+  "URL",
+  0
+ ],
+ [
+  "arpt: 626126.086246: wl0: mdns: ipv4 addr: 10.105.160.95",
+  "10.105.160.95",
+  "IP",
+  3
+ ],
+ [
+  "client attempting to renew session 0x24f0557806a0020 at /10.10.34.17:55969",
+  "/10.10.34.17:55969",
+  "URL",
+  0
+ ],
+ [
+  "diagnostics report from attempt_1445144423722_0020_m_000002_0: error: java.net.noroutetohostexception: no route to host from  minint-fnanli5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.noroutetohostexception : no route to host: no further information; for more details see:  http://wiki.apache.org/hadoop/noroutetohost",
+  "http://wiki.apache.org/hadoop/noroutetohost",
+  "URL",
+  0
+ ],
+ [
+  "dfsoutputstream responseprocessor exception  for block bp-1347369012- 10.190.173.170 -1444972147527:blk_1073743512_2731",
+  "10.190.173.170",
+  "IP",
+  3
+ ],
+ [
+  "ontrackingstopped : true",
+  "ontrackingstopped",
+  "FUN",
+  2
+ ],
+ [
+  "sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak exp $",
+  "2002/03/24",
+  "OTHER",
+  1
+ ],
+ [
+  "ciod: error loading /bgl/apps/scaletest/performance/miniben/mb_243_0810/allreduce.rts : invalid or missing program image, exec format error",
+  "/bgl/apps/scaletest/performance/miniben/mb_243_0810/allreduce.rts",
+  "PATH",
+  4
+ ],
+ [
+  "hibernate_rebuild_completed - took 10042450943433 msecs",
+  "hibernate_rebuild_completed",
+  "FUN",
+  2
+ ],
+ [
+  "authentication failure; logname= uid=0 euid=0 tty=nodevssh ruser= rhost= 150.183.249.110  user=root",
+  "150.183.249.110",
+  "IP",
+  3
+ ],
+ [
+  "sqm: queued 0 file(s) for upload with pattern: c:\\windows\\servicing\\sqm\\*_all.sqm , flags: 0x6",
+  "c:\\windows\\servicing\\sqm\\*_all.sqm",
+  "PATH",
+  4
+ ],
+ [
+  "arpt: 673002.849007: wl0: mdns: ipv6 addr: fe80:0:0:0:c6b3:1ff:fecd:467f",
+  "ipv6",
+  "OTHER",
+  1
+ ],
+ [
+  "input_userauth_request : invalid user test2 [preauth]",
+  "input_userauth_request",
+  "FUN",
+  2
+ ],
+ [
+  "received completed container container_1445144423722_0020_01_000005",
+  "container",
+  "OTHER",
+  1
+ ],
+ [
+  "diagnostics report from attempt_1445144423722_0020_m_000002_0: error: java.net.noroutetohostexception: no route to host from  minint-fnanli5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.noroutetohostexception : no route to host: no further information; for more details see:  http://wiki.apache.org/hadoop/noroutetohost",
+  "java.net.noroutetohostexception",
+  "FUN",
+  2
+ ],
+ [
+  "arpt: 699244.827573: wl0: wl_update_tcpkeep_seq : updated seq/ack/win from userclient seq 2935131210, ack 3049709979, win size 278",
+  "wl_update_tcpkeep_seq",
+  "FUN",
+  2
+ ],
+ [
+  "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= 183.62.140.253 user=root",
+  "183.62.140.253",
+  "IP",
+  3
+ ],
+ [
+  "taskattempt: [attempt_1445144423722_0020_m_000000_0] using containerid: [container_1445144423722_0020_01_000002 on nm: [ 04dn8iq.fareast.corp.microsoft.com:54883 ]",
+  "04dn8iq.fareast.corp.microsoft.com:54883",
+  "URL",
+  0
+ ],
+ [
+  "successfully started service ' sparkexecutoractorsystem ' on port 55904.",
+  "sparkexecutoractorsystem",
+  "FUN",
+  2
+ ],
+ [
+  "the job-conf file on the remote fs is /tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.xml",
+  "/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.xml",
+  "PATH",
+  4
+ ],
+ [
+  "[carddavplugin-error] -getprincipalinfo:[_controller supportsrequestcompressionaturl: https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/ ]",
+  "https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/",
+  "URL",
+  0
+ ],
+ [
+  "imps2: auto-detected intellimouse ps/2",
+  "ps/2",
+  "PATH",
+  4
+ ],
+ [
+  "[14:43:39.854] figagglomeratorsetobjectforkey signalled err=-16020 (kfigstringconformererror_paramerr) (null key) at /library/caches/com.apple.xbs/sources/coremedia/coremedia-1731.15.207/prototypes/legibleoutput/figagglomerator.c line 92",
+  "/library/caches/com.apple.xbs/sources/coremedia/coremedia-1731.15.207/prototypes/legibleoutput/figagglomerator.c",
+  "PATH",
+  4
+ ],
+ [
+  "saved output of task 'attempt_201706092018_0024_m_000160_1155' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_",
+  "output",
+  "OTHER",
+  1
+ ],
+ [
+  "accepted password for fztu from 119.137.62.142 port 49116 ssh2",
+  "119.137.62.142",
+  "IP",
+  3
+ ],
+ [
+  "calculatealtitudewithcache totalaltitude=240",
+  "calculatealtitudewithcache",
+  "OTHER",
+  1
+ ],
+ [
+  "setspeakerphoneon on:true",
+  "on:true",
+  "OTHER",
+  1
+ ],
+ [
+  "tcpconn4.tencent.com:80 error : could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - proxy closed the connection unexpectedly.",
+  "tcpconn4.tencent.com:80",
+  "URL",
+  0
+ ],
+ [
+  "peripheral manager is not powered on",
+  "powered",
+  "OTHER",
+  1
+ ],
+ [
+  "appleactuatorhideventdriver: message service is terminated",
+  "service",
+  "OTHER",
+  1
+ ],
+ [
+  "2017-07-01 19:46:26.133 googlesoftwareupdateagent[31702/0x7000002a0000] [lvl=2] -[ksagentapp(keystonethread) runkeystonesinthreadwitharg:] checking with local engine: <ksupdateengine:0x100259c60 ticketstore=<kspersistentticketstore:0x100253770 store=<kskeyedpersistentstore:0x100254d10 path= /users/xpc/library/google/googlesoftwareupdate/ticketstore/keystone.ticketstore",
+  "/users/xpc/library/google/googlesoftwareupdate/ticketstore/keystone.ticketstore",
+  "PATH",
+  4
+ ],
+ [
+  "error: received disconnect from 103.99.0.122 : 14: no more user authentication methods available. [preauth]",
+  "103.99.0.122",
+  "IP",
+  3
+ ],
+ [
+  "insertcallback() onsuccess  type = 0 data=true",
+  "insertcallback()",
+  "FUN",
+  2
+ ],
+ [
+  "tcpconn.tencent.com:80 close, 133 bytes sent, 0 bytes received, lifetime <1 sec",
+  "tcpconn.tencent.com:80",
+  "URL",
+  0
+ ],
+ [
+  "arpt: 672925.539048: airport_brcm43xx::syncpowerstate : wwen[enabled]",
+  "airport_brcm43xx::syncpowerstate",
+  "FUN",
+  2
+ ],
+ [
+  "have quorum of supporters; starting up and setting last processed zxid: 0xb00000000",
+  "and",
+  "OTHER",
+  1
+ ],
+ [
+  "reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [ 187.141.143.180 ] failed - possible break-in attempt!",
+  "187.141.143.180",
+  "IP",
+  3
+ ],
+ [
+  "the url = http://baike.baidu.com/item/%e8%93%9d%e9%87%87%e5%92%8c/462624?fr=aladdin",
+  "http://baike.baidu.com/item/%e8%93%9d%e9%87%87%e5%92%8c/462624?fr=aladdin",
+  "URL",
+  0
+ ],
+ [
+  "rotationfororientationlw (orient=-1, last=0); user=0 user_rotation_locked",
+  "rotationfororientationlw",
+  "FUN",
+  2
+ ],
+ [
+  "polled file major 1, minor 0, blocksize 4096, pollers 5",
+  "blocksize",
+  "OTHER",
+  1
+ ],
+ [
+  "successfully started service org.apache.spark.network.netty.nettyblocktransferservice on port 40984.",
+  "port",
+  "OTHER",
+  1
+ ],
+ [
+  "ending trustedinstaller finalization.",
+  "ending",
+  "OTHER",
+  1
+ ],
+ [
+  "-[netclientconnection evaluatecrazyivan46] ci46 - perform crazyivan46! qq.10018 tc25805 123.151.137.106:80",
+  "123.151.137.106:80",
+  "URL",
+  0
+ ],
+ [
+  "block* namesystem.addstoredblock: blockmap updated: 10.251.71.240:50010 is added to blk_-5580048401594934039 size 67108864",
+  "10.251.71.240:50010",
+  "URL",
+  0
+ ],
+ [
+  "dhcpoffer on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1",
+  "10.100.4.251",
+  "IP",
+  3
+ ],
+ [
+  "revalidating client: 0x24f0557806a001c",
+  "revalidating",
+  "OTHER",
+  1
+ ],
+ [
+  "lognotificationvisibilitychanges runinthread over",
+  "runinthread",
+  "OTHER",
+  1
+ ],
+ [
+  "[hid] [mt] mtactuatormanagement::getactuatorref calling mtactuatoropen() outside of mttrackpadhidmanager.",
+  "mtactuatormanagement::getactuatorref",
+  "FUN",
+  2
+ ],
+ [
+  "cancelnotificationlocked,remove = com.tencent.mobileqq",
+  "com.tencent.mobileqq",
+  "URL",
+  0
+ ],
+ [
+  "startactivity called from non-activity context; forcing intent.flag_activity_new_task for: intent { flg=0x24000000 cmp= com.tencent.mm/.ui.launcherui (has extras) }",
+  "com.tencent.mm/.ui.launcherui",
+  "URL",
+  0
+ ],
+ [
+  "[accounts] current connection, <nsxpcconnection: 0x7fda74805bf0> connection from pid 487, doesn't have account access.",
+  "current",
+  "OTHER",
+  1
+ ],
+ [
+  "refreshbatteryinfo isbatterylow: 23",
+  "refreshbatteryinfo",
+  "OTHER",
+  1
+ ],
+ [
+  "(root) cmd ( /projects/tbird/temps/get_temps a)",
+  "/projects/tbird/temps/get_temps",
+  "PATH",
+  4
+ ],
+ [
+  "received connection request /10.10.34.12:51296",
+  "/10.10.34.12:51296",
+  "URL",
+  0
+ ],
+ [
+  "outputcommitter is org.apache.hadoop.mapreduce.lib.output.fileoutputcommitter",
+  "org.apache.hadoop.mapreduce.lib.output.fileoutputcommitter",
+  "FUN",
+  2
+ ],
+ [
+  "successfully started service org.apache.spark.network.netty.nettyblocktransferservice on port 40984.",
+  "org.apache.spark.network.netty.nettyblocktransferservice",
+  "FUN",
+  2
+ ],
+ [
+  "follower sid: 3 : info : org.apache.zookeeper.server.quorum.quorumpeer$quorumserver@33557fe4",
+  "org.apache.zookeeper.server.quorum.quorumpeer$quorumserver@33557fe4",
+  "FUN",
+  2
+ ],
+ [
+  "2017-07-04 09:42:57.924 googlesoftwareupdateagent[34603/0x700000323000] [lvl=2] +[kscodesigningverification verifybundle:applicationid:error:] kscodesigningverification verifying code signing for /users/xpc/library/google/googlesoftwareupdate/googlesoftwareupdate.bundle/contents/macos/googlesoftwareupdatedaemon with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.ou]=\"eqhxz8m8av\" and (identifier=\"com.google.keystone\")'",
+  "/users/xpc/library/google/googlesoftwareupdate/googlesoftwareupdate.bundle/contents/macos/googlesoftwareupdatedaemon",
+  "PATH",
+  4
+ ],
+ [
+  "authentication failed from 163.27.187.39 (163.27.187.39): permission denied in replay cache code",
+  "163.27.187.39",
+  "IP",
+  3
+ ],
+ [
+  "niff: node node-69 detected a failed network connection on network 5.5.224.0 via interface alt0",
+  "5.5.224.0",
+  "IP",
+  3
+ ],
+ [
+  "[accounts] failed to update account with identifier 76fe6715-3d27-4f21-aa35-c88c1ea820e8, error: error domain=abaddressbookerrordomain code=1002 \"(null)\"",
+  "identifier",
+  "OTHER",
+  1
+ ],
+ [
+  "securityd_xpc_dictionary_handler cloudd[326] copy_matching error domain=nsosstatuserrordomain code=-50 \"query missing class name\" (paramerr: error in user parameter list) userinfo={nsdescription=query missing class name}",
+  "securityd_xpc_dictionary_handler",
+  "FUN",
+  2
+ ],
+ [
+  "en0: 802.11d country code set to 'x3'.",
+  "set",
+  "OTHER",
+  1
+ ],
+ [
+  "enabling fast fpu save and restore... done.",
+  "fast",
+  "OTHER",
+  1
+ ],
+ [
+  "the change in focus caused us to need to do a layout end",
+  "need",
+  "OTHER",
+  1
+ ],
+ [
+  "full wake request (reason 2) 30914 ms",
+  "30914",
+  "OTHER",
+  1
+ ],
+ [
+  "input split: hdfs://10.10.34.11:9000/pjhe/logs/2ksosp.log :218760+7292",
+  "hdfs://10.10.34.11:9000/pjhe/logs/2ksosp.log",
+  "URL",
+  0
+ ],
+ [
+  "vm_compressor_fastwake_warmup completed - took 12461 msecs",
+  "vm_compressor_fastwake_warmup",
+  "FUN",
+  2
+ ],
+ [
+  "inode-cache hash table entries: 8192 (order: 3, 32768 bytes)",
+  "table",
+  "OTHER",
+  1
+ ],
+ [
+  "tcp_connection_destination_perform_socket_connect 19110 connectx to 183.57.48.75:80 @0 failed: [50] network is down",
+  "183.57.48.75:80",
+  "URL",
+  0
+ ],
+ [
+  "onnotificationvisibilitychanged called",
+  "onnotificationvisibilitychanged",
+  "FUN",
+  2
+ ],
+ [
+  "appleactuatordeviceuserclient::start entered",
+  "appleactuatordeviceuserclient::start",
+  "FUN",
+  2
+ ],
+ [
+  "error recovery for block bp-1347369012-10.190.173.170-1444972147527:blk_1073743512_2731 in pipeline 10.86.169.121:50010, 10.190.173.170:50010 : bad datanode 10.190.173.170:50010",
+  "10.190.173.170:50010",
+  "URL",
+  0
+ ],
+ [
+  "failed to create backup log cab. [hresult = 0x80070001 - error_invalid_function]",
+  "log",
+  "OTHER",
+  1
+ ],
+ [
+  "thermal pressure state: 1 memory pressure state: 0",
+  "pressure",
+  "OTHER",
+  1
+ ],
+ [
+  "attempt_1445144423722_0020_m_000003_0 taskattempt transitioned from success_container_cleanup to succeeded",
+  "success_container_cleanup",
+  "URL",
+  0
+ ],
+ [
+  "2017-07-02 15:46:40.516 googlesoftwareupdateagent[32432/0x7000002a0000] [lvl=2] -[ksoutofprocessfetcher(privatemethods) launchedhelpertaskfortoolpath:error:] ksoutofprocessfetcher launched /users/xpc/library/google/googlesoftwareupdate/googlesoftwareupdate.bundle/contents/macos/ksfetch with process id: 32433",
+  "/users/xpc/library/google/googlesoftwareupdate/googlesoftwareupdate.bundle/contents/macos/ksfetch",
+  "PATH",
+  4
+ ],
+ [
+  "dosavechannels@286: will write to: /library/logs/crashreporter/corecapture/ioreporters /[2017-07-05_16,24,29.663045] - authfail:sts:5_rsn:0.xml",
+  "/library/logs/crashreporter/corecapture/ioreporters",
+  "PATH",
+  4
+ ],
+ [
+  "127.0.0.1:135 error : could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - proxy server cannot establish a connection with the target, status code 403",
+  "proxy.cse.cuhk.edu.hk:5070",
+  "URL",
+  0
+ ],
+ [
+  "send worker leaving thread",
+  "leaving",
+  "OTHER",
+  1
+ ],
+ [
+  "2017-07-02 10:40:07.676 googlesoftwareupdateagent[32012/0x7000002a0000] [lvl=2] -[ksagentapp updateproductwithproductid:usingengine:] checking for updates for com.google.keystone using engine <ksupdateengine:0x100313e70 ticketstore=<kspersistentticketstore:0x100332a60 store=<kskeyedpersistentstore:0x100315fa0 path= /users/xpc/library/google/googlesoftwareupdate/ticketstore/keystone.ticketstore lockfile=<kslockfile:0x1003176d0 path= /users/xpc/library/google/googlesoftwareupdate/ticketstore/keystone.ticketstore.lock locked=no > >> processor=<ksactionprocessor:0x1003143e0 delegate=<ksupdateengine:0x100313e70> isprocessing=no actionscompleted=0 progress=0.00 errors=0 currentactionerrors=0 events=0 currentactionevents=0 actionqueue=( ) > delegate=(null) serverinfostore=<ksserverprivateinfostore:0x100311a10 path=/users/xpc/library/google/googlesoftwareupdate/servers> errors=0 >",
+  "/users/xpc/library/google/googlesoftwareupdate/ticketstore/keystone.ticketstore",
+  "PATH",
+  4
+ ],
+ [
+  "ciod: error loading /p/gb1/stella/sppm/1322/sppm_dd : invalid or missing program image, permission denied",
+  "/p/gb1/stella/sppm/1322/sppm_dd",
+  "PATH",
+  4
+ ],
+ [
+  "exception causing close of session 0x0 due to java.io.ioexception:zookeeperserver not running",
+  "java.io.ioexception:zookeeperserver",
+  "FUN",
+  2
+ ],
+ [
+  "removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "PATH",
+  4
+ ],
+ [
+  "hibernate_flush_memory: buffer_cache_gc freed up 3349 wired pages",
+  "buffer_cache_gc",
+  "FUN",
+  2
+ ],
+ [
+  "inserthihealthdata() end totaltime = 45",
+  "inserthihealthdata()",
+  "FUN",
+  2
+ ],
+ [
+  "v2.0:usb hid core driver",
+  "hid",
+  "OTHER",
+  1
+ ],
+ [
+  "opening proxy : msra-sa-41.fareast.corp.microsoft.com:7109",
+  "msra-sa-41.fareast.corp.microsoft.com:7109",
+  "URL",
+  0
+ ],
+ [
+  "pages 1418325, wire 548641, act 438090, inact 2, cleaned 0 spec 12, zf 30, throt 0, compr 254881, xpmapped 40000",
+  "inact",
+  "OTHER",
+  1
+ ],
+ [
+  "2017-07-08 06:26:32.364 googlesoftwareupdateagent[39159/0x7000002a0000] [lvl=2] -[ksagentapp(keystonedelegate) updateenginefinishedwitherrors:] keystone finished: errors=0",
+  "keystone",
+  "OTHER",
+  1
+ ],
+ [
+  "block* ask 10.250.14.38:50010 to replicate blk_-7571492020523929240 to datanode(s) 10.251.122.38:50010",
+  "10.250.14.38:50010",
+  "URL",
+  0
+ ],
+ [
+  "183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:5070 socks5",
+  "socks.cse.cuhk.edu.hk:5070",
+  "URL",
+  0
+ ],
+ [
+  "2017-07-07 10:54:41.296 ksfetch[37925/0x7fff79824000] [lvl=2] kshelperreceivealldata() kshelpertool read 1926 bytes from stdin.",
+  "kshelperreceivealldata()",
+  "FUN",
+  2
+ ],
+ [
+  "sandbox: spotlightnethelp(352) deny(1) ipc-posix-shm-read-data cfpbs:186a7:",
+  "spotlightnethelp(352)",
+  "FUN",
+  2
+ ],
+ [
+  "mdns_deregisterinterface : frequent transitions for interface en0 ( 10.142.110.44 )",
+  "10.142.110.44",
+  "IP",
+  3
+ ],
+ [
+  "tcpconn4.tencent.com:80 error : could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - proxy closed the connection unexpectedly.",
+  "proxy.cse.cuhk.edu.hk:5070",
+  "URL",
+  0
+ ],
+ [
+  "deletehealthnotification()",
+  "deletehealthnotification()",
+  "FUN",
+  2
+ ],
+ [
+  "ciod: error loading /g/g24/buber/yunsic/bluegene/partad.develf/taddriver.32.exe : program image too big, 361544528 > 266076160",
+  "/g/g24/buber/yunsic/bluegene/partad.develf/taddriver.32.exe",
+  "PATH",
+  4
+ ],
+ [
+  "en0: manual intervention required!",
+  "intervention",
+  "OTHER",
+  1
+ ],
+ [
+  "dhcpack on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1",
+  "10.100.4.251",
+  "IP",
+  3
+ ],
+ [
+  "addnotification key=0 |com.tencent.mm|4097|null|10112",
+  "key=0",
+  "OTHER",
+  1
+ ],
+ [
+  "authentication failure; logname= uid=0 euid=0 tty=nodevssh ruser= rhost= 209.152.168.249  user=guest",
+  "209.152.168.249",
+  "IP",
+  3
+ ],
+ [
+  "-[isgenerateimageop generateimagewithcompletion:] failed to composit image for descriptor <isbindingimagedescriptor: 0x7f9950712080>.",
+  "composit",
+  "OTHER",
+  1
+ ],
+ [
+  "10.11.10.1 post /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events http/1.1 status: 404 len: 296 time: 0.0835118",
+  "10.11.10.1",
+  "IP",
+  3
+ ],
+ [
+  "deleting block blk_5736622945587812309 file /mnt/hadoop/dfs/data/current/subdir19/blk_5736622945587812309",
+  "/mnt/hadoop/dfs/data/current/subdir19/blk_5736622945587812309",
+  "PATH",
+  4
+ ],
+ [
+  "cfpasteboardref cfpasteboardcreate(cfallocatorref, cfstringref) : failed to create global data",
+  "create",
+  "OTHER",
+  1
+ ],
+ [
+  "previous sleep cause: 5",
+  "sleep",
+  "OTHER",
+  1
+ ],
+ [
+  "error recovery for block bp-1347369012-10.190.173.170-1444972147527:blk_1073743512_2731 in pipeline 10.86.169.121:50010 , 10.190.173.170:50010 : bad datanode 10.190.173.170:50010",
+  "10.86.169.121:50010",
+  "URL",
+  0
+ ],
+ [
+  "failed none for invalid user 0 from 185.190.58.151 port 55495 ssh2",
+  "185.190.58.151",
+  "IP",
+  3
+ ],
+ [
+  "pam 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost= 5.36.59.76 .dynamic-dsl-ip.omantel.net.om  user=root",
+  "5.36.59.76",
+  "IP",
+  3
+ ],
+ [
+  "adding path spec: /mapreduce/*",
+  "/mapreduce/*",
+  "PATH",
+  4
+ ],
+ [
+  "invalid user 0 from 5.188.10.180",
+  "5.188.10.180",
+  "IP",
+  3
+ ],
+ [
+  "failed to internally open package. [hresult = 0x800f0805 - cbs_e_invalid_package]",
+  "internally",
+  "OTHER",
+  1
+ ],
+ [
+  "sandbox: com.apple.webkit(9854) deny(1) file-read-data /private/etc/hosts",
+  "/private/etc/hosts",
+  "PATH",
+  4
+ ],
+ [
+  "17:13:03.545 : starting airdrop server for user 501 on wake",
+  "user",
+  "OTHER",
+  1
+ ],
+ [
+  "iothunderboltswitch<0>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = 11 unplug = 0",
+  "iothunderboltswitch<0>(0x0)::listenercallback",
+  "FUN",
+  2
+ ],
+ [
+  "closed socket connection for client /10.10.34.13:54294 (no session established for client)",
+  "/10.10.34.13:54294",
+  "URL",
+  0
+ ],
+ [
+  "dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted",
+  "path:/var/run/mdnsresponder",
+  "PATH",
+  4
+ ],
+ [
+  "path not allowed in target domain: type = pid, path = /system/library/stagedframeworks/safari/safarishared.framework/versions/a/xpcservices/com.apple.safari.history.xpc/contents/macos/com.apple.safari.history error = 147: the specified service did not ship in the requestor's bundle, origin = /system/library/stagedframeworks/safari/webkit.framework/versions/a/xpcservices/com.apple.webkit.webcontent.xpc",
+  "/system/library/stagedframeworks/safari/safarishared.framework/versions/a/xpcservices/com.apple.safari.history.xpc/contents/macos/com.apple.safari.history",
+  "PATH",
+  4
+ ],
+ [
+  "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= 119.4.203.64",
+  "119.4.203.64",
+  "IP",
+  3
+ ],
+ [
+  "10.11.10.1 get /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail http/1.1 status: 200 len: 1893 time: 0.2672610",
+  "/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail",
+  "PATH",
+  4
+ ],
+ [
+  "getting a snapshot from leader",
+  "leader",
+  "OTHER",
+  1
+ ],
+ [
+  "workerenv.init() ok /etc/httpd/conf/workers2.properties",
+  "workerenv.init()",
+  "FUN",
+  2
+ ],
+ [
+  "www.google.com:443 error : could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - could not resolve proxy.cse.cuhk.edu.hk error 11001",
+  "proxy.cse.cuhk.edu.hk:5070",
+  "URL",
+  0
+ ],
+ [
+  "vm_compressor_fastwake_warmup (581519 - 591525) - starting",
+  "vm_compressor_fastwake_warmup",
+  "FUN",
+  2
+ ],
+ [
+  "kern_open_file_for_direct_io(0)",
+  "kern_open_file_for_direct_io(0)",
+  "FUN",
+  2
+ ],
+ [
+  "task: attempt_1445144423722_0020_m_000001_0 - exited : java.net.noroutetohostexception : no route to host from  minint-fnanli5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.noroutetohostexception : no route to host: no further information; for more details see:  http://wiki.apache.org/hadoop/noroutetohost",
+  "exited",
+  "OTHER",
+  1
+ ],
+ [
+  "10.250.15.198:50010 starting thread to transfer block blk_4292382298896622412 to 10.250.15.240:50010",
+  "10.250.15.240:50010",
+  "URL",
+  0
+ ],
+ [
+  "2017-07-06 06:22:57.163367 pm [airplayuiagent] becominginactive: nsworkspacewillsleepnotification",
+  "nsworkspacewillsleepnotification",
+  "OTHER",
+  1
+ ],
+ [
+  "insertevent success begin:25233975 end:25233979",
+  "success",
+  "OTHER",
+  1
+ ],
+ [
+  "invalidating watch set.",
+  "watch",
+  "OTHER",
+  1
+ ],
+ [
+  "loaded servicing stack v6.1.7601.23505 with core: c:\\windows\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\\cbscore.dll",
+  "c:\\windows\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\\cbscore.dll",
+  "PATH",
+  4
+ ],
+ [
+  "cannot open channel to 3 at election address /10.10.34.13:3888",
+  "/10.10.34.13:3888",
+  "URL",
+  0
+ ],
+ [
+  "ccfile::capturelogrun skipping current file dir file [2017-07-03_16,05,51.177343]-io80211family-003.pcapng, current file [2017-07-03_16,05,51.177343]-io80211family-003.pcapng",
+  "current",
+  "OTHER",
+  1
+ ],
+ [
+  "10.251.67.225:50010:got exception while serving blk_-6900989714336081087 to /10.251.25.237",
+  "/10.251.25.237",
+  "URL",
+  0
+ ],
+ [
+  "processhandlebroadcastaction action:android.intent.action.screen_on",
+  "action:android.intent.action.screen_on",
+  "FUN",
+  2
+ ],
+ [
+  "applethunderboltgenerichal::earlywake - complete - took 1 milliseconds",
+  "applethunderboltgenerichal::earlywake",
+  "FUN",
+  2
+ ],
+ [
+  "arpt: 672922.026642: wl0: mdns: 0 srv recs, 0 txt recs",
+  "srv",
+  "OTHER",
+  1
+ ],
+ [
+  "io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)",
+  "io80211awdlpeermanager::setawdlsuspendedmode()",
+  "FUN",
+  2
+ ],
+ [
+  "mheadsupexistencechangedrunnable()",
+  "mheadsupexistencechangedrunnable()",
+  "FUN",
+  2
+ ],
+ [
+  "arpt: 683604.474196: iopmpowersource information: onsleep,  sleeptype: standby,  'externalconnected': no, 'timeremaining': 578,",
+  "iopmpowersource",
+  "OTHER",
+  1
+ ],
+ [
+  "arpt: 699925.384446: wl0: setup_keepalive : seq: 4253304142, ack: 3255241453, win size: 4096",
+  "setup_keepalive",
+  "OTHER",
+  1
+ ],
+ [
+  "web app /mapreduce started at 62267",
+  "/mapreduce",
+  "PATH",
+  4
+ ],
+ [
+  "changing permissions on special file /dev/logsurfer",
+  "/dev/logsurfer",
+  "PATH",
+  4
+ ],
+ [
+  "pm response took 1938 ms (54, powerd)",
+  "response",
+  "OTHER",
+  1
+ ],
+ [
+  "appleactuatordeviceuserclient::stop entered",
+  "appleactuatordeviceuserclient::stop",
+  "FUN",
+  2
+ ],
+ [
+  "arp_client_transmit(en0) failed, network is down (50)",
+  "arp_client_transmit(en0)",
+  "FUN",
+  2
+ ],
+ [
+  "program interrupt: fp cr field .............0",
+  "cr",
+  "OTHER",
+  1
+ ],
+ [
+  "saverealtimehealthdatasstat() size = 1,totaltime = 48",
+  "saverealtimehealthdatasstat()",
+  "FUN",
+  2
+ ],
+ [
+  "inserthihealthdata() end totaltime = 45",
+  "totaltime",
+  "OTHER",
+  1
+ ],
+ [
+  "en0: bssid changed to 5c:50:15:36:bc:03",
+  "to",
+  "OTHER",
+  1
+ ],
+ [
+  "tcp_connection_destination_perform_socket_connect 21152 connectx to 203.205.147.206:8080@0 failed: [51] network is unreachable",
+  "tcp_connection_destination_perform_socket_connect",
+  "FUN",
+  2
+ ],
+ [
+  "machine check enable..............0",
+  "check",
+  "OTHER",
+  1
+ ],
+ [
+  "sending alarm alarm{aa90550 type 3 when 509142332 pendingintent{1749923: pendingintentrecord{9600e20 android broadcastintent}}},repeatinterval = 0,listenertag =time_tick",
+  "when",
+  "OTHER",
+  1
+ ],
+ [
+  "warning: hibernate_page_list_setall skipped 11799 xpmapped pages",
+  "hibernate_page_list_setall",
+  "FUN",
+  2
+ ],
+ [
+  "assertion failed: dvcaddrref != ((void *)0) -[driverservices getdeviceaddress :] line: 2789",
+  "getdeviceaddress",
+  "FUN",
+  2
+ ],
+ [
+  "ciod: error reading message prefix on ciostream socket to 172.16.96.116:41060 , connection timed out",
+  "172.16.96.116:41060",
+  "URL",
+  0
+ ],
+ [
+  "(root) cmd (run-parts /etc/cron.hourly )",
+  "/etc/cron.hourly",
+  "PATH",
+  4
+ ],
+ [
+  "objc[35448]: class tsucustomformatdata is implemented in both /library/quicklook/iwork.qlgenerator/contents/macos/iwork and /system/library/privateframeworks/officeimport.framework/versions/a/officeimport. one of the two will be used. which one is undefined.",
+  "/system/library/privateframeworks/officeimport.framework/versions/a/officeimport.",
+  "PATH",
+  4
+ ],
+ [
+  "start: tftp pid=16563 from= 10.100.4.251",
+  "10.100.4.251",
+  "IP",
+  3
+ ],
+ [
+  "ccfile::capturelogrun() exiting ccfile::capturelogrun",
+  "ccfile::capturelogrun()",
+  "FUN",
+  2
+ ],
+ [
+  "[11:31:49.593] itemasync_copyproperty signalled err=-12785 (kfigbaseobjecterror_invalidated) (invalidated) at /library/caches/com.apple.xbs/sources/coremedia/coremedia-1731.15.207/prototypes/player/figplayer_async.c line 2092",
+  "/library/caches/com.apple.xbs/sources/coremedia/coremedia-1731.15.207/prototypes/player/figplayer_async.c",
+  "PATH",
+  4
+ ],
+ [
+  "savestatdata() type =40005,time = 1513958400000,statclient = 2,who is 1",
+  "savestatdata()",
+  "FUN",
+  2
+ ],
+ [
+  "sandbox: com.apple.addres (34830) deny(1) network-outbound /private/var/run/mdnsresponder",
+  "com.apple.addres",
+  "URL",
+  0
+ ],
+ [
+  "net: registered protocol family 16",
+  "protocol",
+  "OTHER",
+  1
+ ],
+ [
+  "jk2_init() found child 32390 in scoreboard slot 8",
+  "jk2_init()",
+  "FUN",
+  2
+ ],
+ [
+  "mdns_registerinterface : frequent transitions for interface awdl0 (fe80:0000:0000:0000:d8a5:90ff:fef5:7fff)",
+  "mdns_registerinterface",
+  "FUN",
+  2
+ ],
+ [
+  "receiving block blk_3972778210951456006 src: /10.251.121.224:56526 dest: /10.251.121.224:50010",
+  "/10.251.121.224:50010",
+  "URL",
+  0
+ ],
+ [
+  "00000003@2016/9/28:16:00:46.213 wcpinitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed875eb5d @0x7fef9d98728 @0x7fef9d98856 @0xffeee474 @0xffeed7de @0xffeedb2f)",
+  "wcpinitialize",
+  "OTHER",
+  1
+ ],
+ [
+  "received block blk_-5814328448485070742 of size 67108864 from /10.251.74.134",
+  "67108864",
+  "OTHER",
+  1
+ ],
+ [
+  "ccprofilemonitor::setstreameventhandler",
+  "ccprofilemonitor::setstreameventhandler",
+  "FUN",
+  2
+ ],
+ [
+  "extract jar:file:/d:/hadoop-2.6.0-localbox/share/hadoop/yarn/hadoop-yarn-common-2.6.0-snapshot.jar!/webapps/mapreduce to c:\\users\\msrabi\\appdata\\local\\temp\\jetty_0_0_0_0_62267_mapreduce____.8n7xum\\webapp",
+  "c:\\users\\msrabi\\appdata\\local\\temp\\jetty_0_0_0_0_62267_mapreduce____.8n7xum\\webapp",
+  "PATH",
+  4
+ ],
+ [
+  "reading included configuration file: /etc/xinetd.d/klogin [file=/etc/xinetd.d/klogin] [line=14]",
+  "/etc/xinetd.d/klogin",
+  "PATH",
+  4
+ ],
+ [
+  "hibernate image path: /var/vm/sleepimage",
+  "image",
+  "OTHER",
+  1
+ ],
+ [
+  "ipc server listener on 62270: starting",
+  "ipc",
+  "OTHER",
+  1
+ ],
+ [
+  "[00:29:04.085] <<<< crabs >>>> crabswaitforload: [0x7fbc7ac683a0] wait time out - -1001 (msrequesttimeout -1)",
+  "wait",
+  "OTHER",
+  1
+ ],
+ [
+  "niff: node node-254 has detected an available network connection on network 10.128.0.0 via interface ee0",
+  "10.128.0.0",
+  "IP",
+  3
+ ],
+ [
+  "mapred.tip.id is deprecated. instead, use mapreduce.task.id",
+  "mapreduce.task.id",
+  "FUN",
+  2
+ ],
+ [
+  "buildactdeviceentry enter",
+  "enter",
+  "OTHER",
+  1
+ ],
+ [
+  "com.apple.suggestions.harvest : scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 16227 seconds.  ignoring.",
+  "com.apple.suggestions.harvest",
+  "FUN",
+  2
+ ],
+ [
+  "onnotificationclick called",
+  "called",
+  "OTHER",
+  1
+ ],
+ [
+  "cannot open file /dev/logsurfer for writing (no such file or directory)",
+  "/dev/logsurfer",
+  "PATH",
+  4
+ ],
+ [
+  "cannot assign container container: [containerid: container_1445144423722_0020_01_000012, nodeid: msra-sa-39.fareast.corp.microsoft.com:28345 , nodehttpaddress: msra-sa-39.fareast.corp.microsoft.com:8042, resource: <memory:1024, vcores:1>, priority: 20, token: token { kind: containertoken, service: 172.22.149.145:28345 }, ] for a map as either  container memory less than required <memory:1024, vcores:1> or no pending map tasks - maps.isempty=true",
+  "msra-sa-39.fareast.corp.microsoft.com:28345",
+  "URL",
+  0
+ ],
+ [
+  "arpt: 621131.293163: wl0: roamed or switched channel, reason #8, bssid 5c:50:15:4c:18:13, last rssi -64",
+  "switched",
+  "OTHER",
+  1
+ ],
+ [
+  "ciod: error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map : permission denied",
+  "/home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map",
+  "PATH",
+  4
+ ],
+ [
+  "[hid] [mt] mtactuatormanagement::getactuatorref calling mtactuatoropen() outside of mttrackpadhidmanager.",
+  "mtactuatoropen()",
+  "FUN",
+  2
+ ],
+ [
+  "logging to org.slf4j.impl.log4jloggeradapter(org.mortbay.log) via org.mortbay.log.slf4jlog",
+  "org.mortbay.log.slf4jlog",
+  "FUN",
+  2
+ ],
+ [
+  "ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d",
+  "/p/gb2/pakin1/sweep3d",
+  "PATH",
+  4
+ ],
+ [
+  "ciod: z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map",
+  "/p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map",
+  "PATH",
+  4
+ ],
+ [
+  "183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:5070 socks5",
+  "proxy",
+  "OTHER",
+  1
+ ],
+ [
+  "2017-07-06 20:46:03.869 googlesoftwareupdateagent[37316/0x7000002a0000] [lvl=2] -[ksoutofprocessfetcher beginfetchwithdelegate:] ksoutofprocessfetcher start fetch from url: https://tools.google.com/service/update2?cup2hreq=5e15fbe422c816bef7c133cfffdb516e16923579b9be2dfae4d7d8d211b25017&cup2key=7:780377214",
+  "https://tools.google.com/service/update2?cup2hreq=5e15fbe422c816bef7c133cfffdb516e16923579b9be2dfae4d7d8d211b25017&cup2key=7:780377214",
+  "URL",
+  0
+ ],
+ [
+  "sandbox: com.apple.addres(34830) deny(1) network-outbound /private/var/run/mdnsresponder",
+  "/private/var/run/mdnsresponder",
+  "PATH",
+  4
+ ],
+ [
+  "input split: hdfs://10.10.34.11:9000/pjhe/logs/2ksosp.log :218760+7292",
+  "split:",
+  "OTHER",
+  1
+ ],
+ [
+  "**** [broadcombluetoothhostcontrollerusbtransport][start] -- completed (matched on device) -- 0x3800 ****",
+  "completed",
+  "OTHER",
+  1
+ ],
+ [
+  "arpt: 640362.070027: wl0: wl_update_tcpkeep_seq: original seq: 2000710617, ack: 2120985509, win size: 4096",
+  "original",
+  "OTHER",
+  1
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s, comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt bytes: 158441472 time: 38 ms 3973 mb/s",
+  "hibernate_machine_init",
+  "FUN",
+  2
+ ],
+ [
+  "activity check resid: com.example.android.notepad , size=1",
+  "com.example.android.notepad",
+  "FUN",
+  2
+ ],
+ [
+  "mapred.task.id is deprecated. instead, use mapreduce.task.attempt.id",
+  "mapreduce.task.attempt.id",
+  "FUN",
+  2
+ ],
+ [
+  "disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >",
+  "system_info*",
+  "OTHER",
+  1
+ ],
+ [
+  "-[netclientconnection effectivebundleid] using process name apsd as bundle id (this is expected for daemons without bundle id",
+  "daemons",
+  "OTHER",
+  1
+ ],
+ [
+  "closed socket connection for client /10.10.34.11:51097 which had sessionid 0x34ede65503f002f",
+  "/10.10.34.11:51097",
+  "URL",
+  0
+ ],
+ [
+  "hibernate_alloc_pages act 107794, inact 10088, anon 460, throt 0, spec 58021, wire 572831, wireinit 39927",
+  "hibernate_alloc_pages",
+  "FUN",
+  2
+ ],
+ [
+  "extension com.apple.ncplugin.worldclock -> (null)",
+  "com.apple.ncplugin.worldclock",
+  "URL",
+  0
+ ],
+ [
+  "mvisiblity.getvalue is false",
+  "mvisiblity.getvalue",
+  "FUN",
+  2
+ ],
+ [
+  "ccioreporterformatter::refreshsubscriptionsfromstreamregistry clearing out any previous subscriptions",
+  "ccioreporterformatter::refreshsubscriptionsfromstreamregistry",
+  "FUN",
+  2
+ ],
+ [
+  "started httpserver2$selectchannelconnectorwithsafestartup@ 0.0.0.0:62267",
+  "0.0.0.0:62267",
+  "URL",
+  0
+ ],
+ [
+  "activity check resid: com.example.android.notepad , size=1",
+  "resid:",
+  "OTHER",
+  1
+ ],
+ [
+  "logging to org.slf4j.impl.log4jloggeradapter(org.mortbay.log) via org.mortbay.log.slf4jlog",
+  "org.slf4j.impl.log4jloggeradapter(org.mortbay.log)",
+  "FUN",
+  2
+ ],
+ [
+  "onnotificationexpansionchanged called",
+  "called",
+  "OTHER",
+  1
+ ],
+ [
+  "inserthihealthdata() bulksavedetailhihealthdata fail errorcode = 4,errormessage = err_data_insert",
+  "inserthihealthdata()",
+  "FUN",
+  2
+ ],
+ [
+  "path not allowed in target domain: type = pid, path = /system/library/stagedframeworks/safari/safarishared.framework/versions/a/xpcservices/com.apple.safari.history.xpc/contents/macos/com.apple.safari.history error = 147: the specified service did not ship in the requestor's bundle, origin = /system/library/stagedframeworks/safari/webkit.framework/versions/a/xpcservices/com.apple.webkit.webcontent.xpc",
+  "/system/library/stagedframeworks/safari/webkit.framework/versions/a/xpcservices/com.apple.webkit.webcontent.xpc",
+  "PATH",
+  4
+ ],
+ [
+  "[bluetoothhiddevicecontroller] eventserviceconnectedcallback",
+  "eventserviceconnectedcallback",
+  "FUN",
+  2
+ ],
+ [
+  "io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended",
+  "io80211awdlpeermanager::setawdloperatingmode",
+  "FUN",
+  2
+ ],
+ [
+  "arpt: 728046.456828: wl0: setup_keepalive: local ip: 10.142.108.38",
+  "10.142.108.38",
+  "IP",
+  3
+ ],
+ [
+  "active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "PATH",
+  4
+ ],
+ [
+  "location icon should now be in state 'active'",
+  "state",
+  "OTHER",
+  1
+ ],
+ [
+  "cancelnotificationlocked called,tell the app,reason = 1",
+  "cancelnotificationlocked",
+  "FUN",
+  2
+ ],
+ [
+  "could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0",
+  "purgeable",
+  "OTHER",
+  1
+ ],
+ [
+  "127.0.0.1:135 error : could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - proxy server cannot establish a connection with the target, status code 403",
+  "127.0.0.1:135",
+  "IP",
+  3
+ ],
+ [
+  "cfnetwork sslhandshake failed (-9802)",
+  "failed",
+  "FUN",
+  2
+ ],
+ [
+  "my election bind port: 0.0.0.0/0.0.0.0:3888",
+  "my",
+  "OTHER",
+  1
+ ],
+ [
+  "android.util.androidruntimeexception : must execute in ui",
+  "android.util.androidruntimeexception",
+  "FUN",
+  2
+ ],
+ [
+  "starting executor id 5 on host mesos-slave-07",
+  "mesos-slave-07",
+  "IP",
+  3
+ ],
+ [
+  "rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015",
+  "message",
+  "OTHER",
+  1
+ ],
+ [
+  "autopurge.snapretaincount set to 3",
+  "autopurge.snapretaincount",
+  "FUN",
+  2
+ ],
+ [
+  "fatal: write failed: connection reset by peer [preauth]",
+  "peer",
+  "OTHER",
+  1
+ ],
+ [
+  "connection request from old client /10.10.34.12:56424 ; will be dropped if server is in r-o mode",
+  "/10.10.34.12:56424",
+  "URL",
+  0
+ ],
+ [
+  "processed session termination for sessionid: 0x34ed9ac1c1e0085",
+  "termination",
+  "OTHER",
+  1
+ ],
+ [
+  "starting executor id 5 on host mesos-slave-07",
+  "host",
+  "OTHER",
+  1
+ ],
+ [
+  "failed password for invalid user default from 5.188.10.180 port 41538 ssh2",
+  "5.188.10.180",
+  "IP",
+  3
+ ],
+ [
+  "mapred.task.partition is deprecated. instead, use mapreduce.task.partition",
+  "mapreduce.task.partition",
+  "FUN",
+  2
+ ],
+ [
+  "starting trustedinstaller finalization.",
+  "trustedinstaller",
+  "FUN",
+  2
+ ],
+ [
+  "[ib_sm_sweep.c:1455]: no topology change",
+  "no",
+  "OTHER",
+  1
+ ],
+ [
+  "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at ( /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742 ): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+  "/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "PATH",
+  4
+ ],
+ [
+  "final resource view: name= cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172mb used_ram=512mb phys_disk=15gb used_disk=0gb total_vcpus=16 used_vcpus=0 pci_stats=[]",
+  "cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us",
+  "IP",
+  3
+ ],
+ [
+  "button report: 0x8002be0",
+  "button",
+  "OTHER",
+  1
+ ],
+ [
+  "10.250.13.240:50010 served block blk_-3134225108208373949 to /10.250.13.240",
+  "blk_-3134225108208373949",
+  "OTHER",
+  1
+ ],
+ [
+  "<immacnotificationcentermanager: 0x7ff1b2e00ba0>:   dnd enabled: yes",
+  "dnd",
+  "OTHER",
+  1
+ ],
+ [
+  "ciod: error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map : no child processes",
+  "processes",
+  "OTHER",
+  1
+ ],
+ [
+  "block* namesystem.delete: blk_7197514030988119866 is added to invalidset of 10.251.75.49:50010",
+  "10.251.75.49:50010",
+  "URL",
+  0
+ ],
+ [
+  "jk2_init() can't find child 2085 in scoreboard",
+  "scoreboard",
+  "OTHER",
+  1
+ ],
+ [
+  "db path: /users/xpc/library/containers/com.tencent.qq/data/documents/contents/916639562/qq.db",
+  "/users/xpc/library/containers/com.tencent.qq/data/documents/contents/916639562/qq.db",
+  "PATH",
+  4
+ ],
+ [
+  "task_1445144423722_0020_m_000008 task transitioned from new to scheduled",
+  "task",
+  "OTHER",
+  1
+ ],
+ [
+  "2017-07-02 10:40:07.676 googlesoftwareupdateagent[32012/0x7000002a0000] [lvl=2] -[ksagentapp updateproductwithproductid:usingengine:] checking for updates for com.google.keystone using engine <ksupdateengine:0x100313e70 ticketstore=<kspersistentticketstore:0x100332a60 store=<kskeyedpersistentstore:0x100315fa0 path= /users/xpc/library/google/googlesoftwareupdate/ticketstore/keystone.ticketstore lockfile=<kslockfile:0x1003176d0 path= /users/xpc/library/google/googlesoftwareupdate/ticketstore/keystone.ticketstore.lock locked=no > >> processor=<ksactionprocessor:0x1003143e0 delegate=<ksupdateengine:0x100313e70> isprocessing=no actionscompleted=0 progress=0.00 errors=0 currentactionerrors=0 events=0 currentactionevents=0 actionqueue=( ) > delegate=(null) serverinfostore=<ksserverprivateinfostore:0x100311a10 path=/users/xpc/library/google/googlesoftwareupdate/servers> errors=0 >",
+  "com.google.keystone",
+  "URL",
+  0
+ ],
+ [
+  "ciod: received signal 15, code=0, errno=0, address=0x0000044d",
+  "signal",
+  "OTHER",
+  1
+ ],
+ [
+  "ciod: generated 128 core files for program /home/germann2/bgl-demo/spasm_mpi",
+  "/home/germann2/bgl-demo/spasm_mpi",
+  "PATH",
+  4
+ ],
+ [
+  "selinux_register_security : registering secondary module capability",
+  "selinux_register_security",
+  "FUN",
+  2
+ ],
+ [
+  "ccdatatap::profileremoved , owner: com.apple.driver.airport.brcm4360.0, name: statesnapshots",
+  "ccdatatap::profileremoved",
+  "FUN",
+  2
+ ],
+ [
+  "reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084",
+  "snapshot",
+  "OTHER",
+  1
+ ],
+ [
+  "pam_unix(sshd:session) : session closed for user fztu",
+  "pam_unix(sshd:session)",
+  "FUN",
+  2
+ ],
+ [
+  "loading offline registry hive: system, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7} globalroot/device/harddiskvolumeshadowcopy2/windows/system32/config/system ' from path '\\\\?\\globalroot\\device\\harddiskvolumeshadowcopy2\\windows\\system32\\config\\system'.",
+  "globalroot/device/harddiskvolumeshadowcopy2/windows/system32/config/system",
+  "PATH",
+  4
+ ],
+ [
+  "www.google.com:443 error : could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - could not resolve proxy.cse.cuhk.edu.hk error 11001",
+  "proxy.cse.cuhk.edu.hk",
+  "IP",
+  3
+ ],
+ [
+  "oimageb5.ydstatic.com:80 error : a connection request was canceled before the completion.",
+  "oimageb5.ydstatic.com:80",
+  "URL",
+  0
+ ],
+ [
+  "total of 3 ddr error(s) detected and corrected over 8732 seconds",
+  "detected",
+  "OTHER",
+  1
+ ],
+ [
+  "nodecard is not fully functional",
+  "not",
+  "OTHER",
+  1
+ ],
+ [
+  "warning: we failed to resolve data source name bn910 bn911 bn912 bn913 bn914 bn915 bn916 bn917 bn918 bn919 bn920 bn921 bn922 bn923 bn924 bn925 bn926 bn927 bn928 bn929 bn930 bn931 bn932 bn933 bn934 bn935 bn936 bn937 bn938 bn939 bn940 bn941 bn942 bn943 bn944 bn945 bn946 bn947 bn948 bn949 bn950 bn951 bn952 bn953 bn954 bn955 bn956 bn957 bn958 bn959 bn960 bn961 bn962 bn963 bn964 bn965 bn966 bn967 bn968 bn969 bn970 bn971 bn972 bn973 bn974 bn975 bn976 bn977 bn978 bn979 bn980 bn981 bn982 bn983 bn984 bn985 bn986 bn987 bn988 bn989 bn990 bn991 bn992 bn993 bn994 bn995 bn996 bn997 bn998 bn999 bn1000 bn1001 bn1002 bn1003 bn1004 bn1005 bn1006 bn1007 bn1008 bn1009 bn1010 bn1011 bn1012 bn1013 bn1014 bn1015 bn1016 bn1017 bn1018 bn1019 bn1020 bn1021 bn1022 bn1023 bn1024",
+  "bn910",
+  "OTHER",
+  1
+ ],
+ [
+  "hibernate_page_list_setall time: 603 ms",
+  "hibernate_page_list_setall",
+  "FUN",
+  2
+ ],
+ [
+  "scavenge: completed , disposition: 0x1",
+  "completed",
+  "OTHER",
+  1
+ ],
+ [
+  "registered webapp guice modules",
+  "modules",
+  "OTHER",
+  1
+ ],
+ [
+  "ccxpcservice::setstreameventhandler registered for notification callback.",
+  "ccxpcservice::setstreameventhandler",
+  "FUN",
+  2
+ ],
+ [
+  "loaded properties from hadoop-metrics2.properties",
+  "hadoop-metrics2.properties",
+  "PATH",
+  4
+ ],
+ [
+  "[hid] [mt] applemultitouchdevice::willterminate entered",
+  "applemultitouchdevice::willterminate",
+  "FUN",
+  2
+ ],
+ [
+  "suppressing further interrupts of same type",
+  "same",
+  "OTHER",
+  1
+ ],
+ [
+  "established session 0x24edfaa87170018 with negotiated timeout 10000 for client /10.10.34.21:42521",
+  "/10.10.34.21:42521",
+  "URL",
+  0
+ ],
+ [
+  "[ iobluetoothhostcontroller::setconfigstate ] calling registerservice",
+  "iobluetoothhostcontroller::setconfigstate",
+  "FUN",
+  2
+ ],
+ [
+  "ja9j1dq7016560: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1625423, relay=[ 127.0.0.1 ] [127.0.0.1], dsn=4.0.0, stat=deferred: connection refused by [127.0.0.1]",
+  "127.0.0.1",
+  "IP",
+  3
+ ],
+ [
+  "connecting to resourcemanager at msra-sa-41/ 10.190.173.170:8030 ",
+  "10.190.173.170:8030",
+  "URL",
+  0
+ ],
+ [
+  "removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "base",
+  "OTHER",
+  1
+ ],
+ [
+  "applethunderboltnhitype2::waitforok2go2sx - intel_rp = 1 dlla_reporting_supported = 0",
+  "applethunderboltnhitype2::waitforok2go2sx",
+  "FUN",
+  2
+ ],
+ [
+  "follower sid: 3 : info : org.apache.zookeeper.server.quorum.quorumpeer$quorumserver@33557fe4",
+  "info",
+  "OTHER",
+  1
+ ],
+ [
+  "autopurge.snapretaincount set to 3",
+  "set",
+  "OTHER",
+  1
+ ],
+ [
+  "hibernate_machine_init reading",
+  "hibernate_machine_init",
+  "FUN",
+  2
+ ],
+ [
+  "base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "PATH",
+  4
+ ],
+ [
+  "using callqueue class java.util.concurrent.linkedblockingqueue",
+  "java.util.concurrent.linkedblockingqueue",
+  "FUN",
+  2
+ ],
+ [
+  "new process app=processrecord{6eaaf00 0: com.tencent.mobileqq:qzone/u0a111 }, name: com.tencent.mobileqq:qzone, euid: 0",
+  "com.tencent.mobileqq:qzone/u0a111",
+  "URL",
+  0
+ ],
+ [
+  "startinsertsportsync first 500 steps sync,do all sync",
+  "startinsertsportsync",
+  "FUN",
+  2
+ ],
+ [
+  "synchronized to 10.100.26.250 , stratum 3",
+  "10.100.26.250",
+  "IP",
+  3
+ ],
+ [
+  "ciod: login chdir(/bgl/apps/swl/performance/miniben///2005.09.20-18.06.01) failed: no such file or directory",
+  "chdir(/bgl/apps/swl/performance/miniben///2005.09.20-18.06.01)",
+  "PATH",
+  4
+ ],
+ [
+  "2017-07-06 00:30:37.071 googlesoftwareupdateagent[36436/0x7000002a0000] [lvl=2] -[ksupdateengine updateallexceptproduct:] ksupdateengine updating all installed products, except:' com.google.keystone '.",
+  "com.google.keystone",
+  "URL",
+  0
+ ],
+ [
+  "unable to start service intent { act=com.tencent.android.tpush.action.keepalive cmp= com.qqgame.hlddz/ com.tencent.android.tpush.service.xgpushservice } u=0: not found",
+  "com.tencent.android.tpush.service.xgpushservice",
+  "FUN",
+  2
+ ],
+ [
+  "uploadstaticstodb() onresult  type = 4 obj=true",
+  "uploadstaticstodb()",
+  "FUN",
+  2
+ ],
+ [
+  "interrupted while waiting for message on queue",
+  "message",
+  "OTHER",
+  1
+ ],
+ [
+  "instruction address space .........0",
+  "space",
+  "OTHER",
+  1
+ ],
+ [
+  "sqm: initializing online with windows opt-in: false",
+  "windows",
+  "OTHER",
+  1
+ ],
+ [
+  "qq(10018) deny mach-lookup com.apple.networking.captivenetworksupport",
+  "com.apple.networking.captivenetworksupport",
+  "URL",
+  0
+ ],
+ [
+  "io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto",
+  "io80211awdlpeermanager::setawdloperatingmode",
+  "FUN",
+  2
+ ],
+ [
+  "start proc 13003: com.tencent.mobileqq:qzone/u0a111 for service com.tencent.mobileqq/cooperation.qzone.remote.logic.qzonewebpluginproxyservice",
+  "com.tencent.mobileqq:qzone/u0a111",
+  "URL",
+  0
+ ],
+ [
+  "loading offline registry hive: system, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7} globalroot/device/harddiskvolumeshadowcopy2/windows/system32/config/system ' from path '\\\\? \\globalroot\\device\\harddiskvolumeshadowcopy2\\windows\\system32\\config\\system '.",
+  "\\globalroot\\device\\harddiskvolumeshadowcopy2\\windows\\system32\\config\\system",
+  "PATH",
+  4
+ ],
+ [
+  "received disconnect from 103.207.39.212 : 11: closed due to user request. [preauth]",
+  "103.207.39.212",
+  "IP",
+  3
+ ],
+ [
+  "2017-07-05 16:18:06.450 googlesoftwareupdateagent[36128/0x7000002a0000] [lvl=2] -[ksoutofprocessfetcher beginfetchwithdelegate:] ksoutofprocessfetcher fetching from url: https://tools.google.com/service/update2?cup2hreq=ac844e04cbb398fcef4cf81b4ffc44a3ebc863e89d19c0b5d39d02d78d26675b&cup2key=7:677488741",
+  "https://tools.google.com/service/update2?cup2hreq=ac844e04cbb398fcef4cf81b4ffc44a3ebc863e89d19c0b5d39d02d78d26675b&cup2key=7:677488741",
+  "URL",
+  0
+ ],
+ [
+  "ccfile::capturelog",
+  "ccfile::capturelog",
+  "FUN",
+  2
+ ],
+ [
+  "disconnecting: too many authentication failures for root [preauth]",
+  "many",
+  "OTHER",
+  1
+ ],
+ [
+  "session closed for user root",
+  "for",
+  "OTHER",
+  1
+ ],
+ [
+  "arpt: 646193.687729: airport_brcm43xx::platformwowenable : wwen[disable]",
+  "airport_brcm43xx::platformwowenable",
+  "FUN",
+  2
+ ],
+ [
+  "2017-07-06 09:24:14.417 ksfetch[36728/0x7fff79824000] [lvl=2] main() ksfetch fetching url (<nsmutableurlrequest: 0x100602220> { url: https://tools.google.com/service/update2?cup2hreq=f5e83ec64ff3fc5533a3c206134a6517e274f9e1cb53df857e15049b6e4c9f8e&cup2key=7:1721929288 }) to folder: /tmp/ksoutofprocessfetcher.apwod5qmh1/download",
+  "/tmp/ksoutofprocessfetcher.apwod5qmh1/download",
+  "PATH",
+  4
+ ],
+ [
+  "int_src_ovr (bus 0 bus_irq 0 global_irq 2 dfl dfl)",
+  "int_src_ovr",
+  "FUN",
+  2
+ ],
+ [
+  "removenotification:0| com.tencent.mobileqq |121|null|10111",
+  "com.tencent.mobileqq",
+  "IP",
+  3
+ ],
+ [
+  "pbrequester failed with error error domain=nsurlerrordomain code=-1009 the internet connection appears to be offline. userinfo={nsunderlyingerror=0x7fb7f0035dc0 {error domain=kcferrordomaincfnetwork code=-1009 the internet connection appears to be offline. userinfo={nserrorfailingurlstringkey= https://gs-loc.apple.com/clls/wloc , nserrorfailingurlkey=https: //gs-loc.apple.com/clls/wloc , _kcfstreamerrorcodekey=8, _kcfstreamerrordomainkey=12, nslocalizeddescription=the internet connection appears to be offline.}}, nserrorfailingurlstringkey= https://gs-loc.apple.com/clls/wloc , nserrorfailingurlkey=https://gs-loc.apple.com/clls/wloc, _kcfstreamerrordomainkey=12, _kcfstreamerrorcodekey=8, nslocalizeddescription=the internet connection appears to be offline.}",
+  "https://gs-loc.apple.com/clls/wloc",
+  "URL",
+  0
+ ],
+ [
+  "updatecharginglocked: charging =false",
+  "charging",
+  "OTHER",
+  1
+ ],
+ [
+  "connecting to driver: spark://coarsegrainedscheduler@10.10.34.11:48069 ",
+  "to",
+  "OTHER",
+  1
+ ],
+ [
+  "mod_jk child workerenv in error state 6",
+  "in",
+  "OTHER",
+  1
+ ],
+ [
+  "*** register callback for com.android.systemui.statusbar.policy.keyguardmonitor @712d093",
+  "com.android.systemui.statusbar.policy.keyguardmonitor",
+  "FUN",
+  2
+ ],
+ [
+  "diagnostics report from attempt_1445144423722_0020_m_000002_0 : error: java.net.noroutetohostexception: no route to host from  minint-fnanli5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.noroutetohostexception : no route to host: no further information; for more details see:  http://wiki.apache.org/hadoop/noroutetohost",
+  "attempt_1445144423722_0020_m_000002_0",
+  "OTHER",
+  1
+ ],
+ [
+  "hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096",
+  "hibernate_teardown_pmap_structs",
+  "FUN",
+  2
+ ],
+ [
+  "remove(pendingintent{e4e2534: pendingintentrecord{e204f60 com.android.phone broadcastintent}}) changed bounds; rebatching",
+  "changed",
+  "OTHER",
+  1
+ ],
+ [
+  "printfreezingdisplaylogsopening app wtoken = appwindowtoken{9f4ef63 token=token{a64f992 activityrecord{de9231d u0 com.tencent.qt.qtl/.activity.info.newsdetailxmlactivity t761}}}, alldrawn= false, startingdisplayed =  false, startingmoved =  false, isrelaunching =  false",
+  "printfreezingdisplaylogsopening",
+  "FUN",
+  2
+ ],
+ [
+  "receiving block blk_3972778210951456006 src: /10.251.121.224:56526 dest: /10.251.121.224:50010",
+  "src:",
+  "OTHER",
+  1
+ ],
+ [
+  "arpt: 711749.913729: iopmpowersource information: onsleep,  sleeptype: normal sleep,  'externalconnected': yes, 'timeremaining': 0,",
+  "iopmpowersource",
+  "OTHER",
+  1
+ ],
+ [
+  "ccprofilemonitor::freeresources done",
+  "ccprofilemonitor::freeresources",
+  "FUN",
+  2
+ ],
+ [
+  "read out cached package applicability for package: package_for_kb3108664~31bf3856ad364e35~amd64~~6.1.1.0, applicablestate: 112, currentstate:112",
+  "for",
+  "OTHER",
+  1
+ ],
+ [
+  "10.250.13.240:50010 served block blk_-3134225108208373949 to /10.250.13.240",
+  "10.250.13.240:50010",
+  "URL",
+  0
+ ],
+ [
+  "onreceive action: android.intent.action.screen_off",
+  "android.intent.action.screen_off",
+  "FUN",
+  2
+ ],
+ [
+  "opened file /var/log/sleepwakestacks.bin , size 172032, extents 1, maxio 2000000 ssd 1",
+  "/var/log/sleepwakestacks.bin",
+  "PATH",
+  4
+ ],
+ [
+  "scheduletimetickevent triggerattime = 509262332",
+  "triggerattime",
+  "OTHER",
+  1
+ ],
+ [
+  "block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000318_0",
+  "namesystem.allocateblock:",
+  "OTHER",
+  1
+ ],
+ [
+  "ciod: error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map : block device required",
+  "block",
+  "OTHER",
+  1
+ ],
+ [
+  "unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "PATH",
+  4
+ ],
+ [
+  "address change detected. old: msra-sa-41/10.190.173.170:8030 new: msra-sa-41:8030",
+  "msra-sa-41/10.190.173.170:8030",
+  "URL",
+  0
+ ],
+ [
+  "network changed: v4(en0:10.105.160.237) v6(en0!:2607:f140:6000:8:f1dc:a608:863:19ad) dns proxy smb",
+  "proxy",
+  "OTHER",
+  1
+ ],
+ [
+  "notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), leading (n.state), 3 (n.sid), 0x7 (n.peerepoch), looking (my state)",
+  "notification:",
+  "OTHER",
+  1
+ ],
+ [
+  "disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >",
+  "recent",
+  "OTHER",
+  1
+ ],
+ [
+  "[hid] [mt] appleactuatorhideventdriver::start entered",
+  "appleactuatorhideventdriver::start",
+  "FUN",
+  2
+ ],
+ [
+  "*** unregister callback for com.android.systemui.statusbar.policy.keyguardmonitor@712d093",
+  "for",
+  "OTHER",
+  1
+ ],
+ [
+  "applecamin::systemwakecall - messagetype = 0xe0000300",
+  "applecamin::systemwakecall",
+  "OTHER",
+  1
+ ],
+ [
+  "******* goodbye /10.10.34.13:57247 ********",
+  "/10.10.34.13:57247",
+  "URL",
+  0
+ ],
+ [
+  "setting btcoex config: enable_2g:1, profile_2g:0, enable_5g:1, profile_5g:0",
+  "btcoex",
+  "OTHER",
+  1
+ ],
+ [
+  "ccioreporterformatter::addregistrychildtochanneldictionary streams 7",
+  "ccioreporterformatter::addregistrychildtochanneldictionary",
+  "FUN",
+  2
+ ],
+ [
+  "<immacnotificationcentermanager: 0x7fdcc9d16380>: updating enabled: no   ( topics:() )",
+  "topics:()",
+  "FUN",
+  2
+ ],
+ [
+  "savehealthdetaildata() deviceid = 2,clientid=1,id=1",
+  "savehealthdetaildata()",
+  "FUN",
+  2
+ ],
+ [
+  "error: received disconnect from 195.154.37.122 : 3: com.jcraft.jsch.jschexception: auth fail [preauth]",
+  "195.154.37.122",
+  "IP",
+  3
+ ],
+ [
+  "root=label=/ initrd=/x86_64/initrd-2.6.9-5.0.5.el-lustre-1.4.2-perfctr-admin console=tty0 console=ttys0,19200 fastboot boot_image= /x86_64/vmlinuz-2.6.9-5.0.5.el-lustre-1.4.2-perfctr",
+  "/x86_64/vmlinuz-2.6.9-5.0.5.el-lustre-1.4.2-perfctr",
+  "PATH",
+  4
+ ],
+ [
+  "(diskstore.normal:2382) 20cb04f 1.000086",
+  "20cb04f",
+  "OTHER",
+  1
+ ],
+ [
+  "getallcellinfo is blocked by permission manager . callingpackage = com.tencent.mobileqq",
+  "blocked",
+  "OTHER",
+  1
+ ],
+ [
+  "dhcprequest for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251 .",
+  "10.100.4.251",
+  "IP",
+  3
+ ],
+ [
+  "iohibernatepolleropen(0)",
+  "iohibernatepolleropen(0)",
+  "FUN",
+  2
+ ],
+ [
+  "getrecenttasks : num=10,flags=62,totaltasks=46",
+  "getrecenttasks",
+  "FUN",
+  2
+ ],
+ [
+  "cocoa scripting error for '0x0295001d': four character codes must be four characters long.",
+  "four",
+  "OTHER",
+  1
+ ],
+ [
+  "ciod: error loading /bgl/apps/swl/performance/miniben//bandwidth.rts : invalid or missing program image, no such file or directory",
+  "/bgl/apps/swl/performance/miniben//bandwidth.rts",
+  "PATH",
+  4
+ ],
+ [
+  "critical input interrupt (unit=0x0b bit=0x0b): warning for torus z- wire",
+  "input",
+  "OTHER",
+  1
+ ],
+ [
+  "created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/",
+  "/opt/hdfs/nodemanager/usercache/curi/appcache/",
+  "PATH",
+  4
+ ],
+ [
+  "verification succeeded for blk_-2827716238972737794",
+  "succeeded",
+  "OTHER",
+  1
+ ],
+ [
+  "did not receive identification string from 103.207.39.16",
+  "103.207.39.16",
+  "IP",
+  3
+ ],
+ [
+  "ccfile::capturelog received capture notice id: 1499196895.670989, reason = authfail:sts:5_rsn:0",
+  "ccfile::capturelog",
+  "FUN",
+  2
+ ],
+ [
+  "makeexpandedinvisible: mexpandedvisible =false",
+  "mexpandedvisible",
+  "OTHER",
+  1
+ ],
+ [
+  "the job-jar file on the remote fs is hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.jar",
+  "hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.jar",
+  "URL",
+  0
+ ],
+ [
+  "error returned from iconservicesagent: (null)",
+  "from",
+  "OTHER",
+  1
+ ],
+ [
+  "tcp_connection_tls_session_error_callback_imp 2044 __tcp_connection_tls_session_callback_write_block_invoke .434 error 22",
+  "__tcp_connection_tls_session_callback_write_block_invoke",
+  "FUN",
+  2
+ ],
+ [
+  "enabling pid=30298 for plug-in com.apple.ncplugin.weather(1.0) 131fe7ed-87f7-471d-8797-c11107688df7 /system/library/coreservices/weather.app/contents/plugins/com.apple.ncplugin.weather.appex",
+  "/system/library/coreservices/weather.app/contents/plugins/com.apple.ncplugin.weather.appex",
+  "PATH",
+  4
+ ],
+ [
+  "ciod: error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map : block device required",
+  "/p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map",
+  "PATH",
+  4
+ ],
+ [
+  "startinsertsportsync() start auto sync,app is 1",
+  "startinsertsportsync()",
+  "FUN",
+  2
+ ],
+ [
+  "memorystore started with capacity 17.7 gb",
+  "gb",
+  "OTHER",
+  1
+ ],
+ [
+  "anonymous ftp login from 84.102.20.2 ,  (anonymous)",
+  "84.102.20.2",
+  "IP",
+  3
+ ],
+ [
+  "getbinderpackagename packagename = com.huawei.health",
+  "com.huawei.health",
+  "IP",
+  3
+ ],
+ [
+  "2017-07-06 00:30:37.064 ksfetch[36439/0x7fff79824000] [lvl=2] main() fetcher is exiting.",
+  "main()",
+  "FUN",
+  2
+ ],
+ [
+  "my election bind port: 0.0.0.0/0.0.0.0:3888",
+  "0.0.0.0/0.0.0.0:3888",
+  "URL",
+  0
+ ],
+ [
+  "ending trustedinstaller initialization .",
+  "initialization",
+  "OTHER",
+  1
+ ],
+ [
+  " getstepcounterstatus= true",
+  "true",
+  "OTHER",
+  1
+ ],
+ [
+  "removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "PATH",
+  4
+ ],
+ [
+  "pam 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= 5.188.10.180",
+  "5.188.10.180",
+  "IP",
+  3
+ ],
+ [
+  "failed to connect (view) outlet from (nsapplication) to (nscolorpickergridview): missing setter or instance variable",
+  "missing",
+  "OTHER",
+  1
+ ],
+ [
+  "received disconnect from 183.62.140.253 : 11: bye bye [preauth]",
+  "183.62.140.253",
+  "IP",
+  3
+ ],
+ [
+  "unrecognized attribute value: t:abchpersonitemtype",
+  "t:abchpersonitemtype",
+  "FUN",
+  2
+ ],
+ [
+  "arpt: 672041.595629: wl0: setup_keepalive: interval 258, retry_interval 30, retry_count 10",
+  "interval",
+  "OTHER",
+  1
+ ],
+ [
+  "mapred.task.is.map is deprecated. instead, use mapreduce.task.ismap",
+  "mapred.task.is.map",
+  "FUN",
+  2
+ ],
+ [
+  "objc[35391]: class tsuatomiclrucache is implemented in both /library/quicklook/iwork.qlgenerator/contents/macos/iwork and /system/library/privateframeworks/officeimport.framework/versions/a/officeimport. one of the two will be used. which one is undefined.",
+  "/library/quicklook/iwork.qlgenerator/contents/macos/iwork",
+  "PATH",
+  4
+ ],
+ [
+  "eth0: e1000_probe: intel(r) pro/1000 network connection",
+  "intel(r)",
+  "FUN",
+  2
+ ],
+ [
+  "hibernate_machine_init : state 2, image pages 446175, sum was d4e6c0b2, imagesize 0x2aea6000, image1size 0x215a4000, conflictcount 5848, nextfree 5887",
+  "hibernate_machine_init",
+  "FUN",
+  2
+ ],
+ [
+  "ciod: error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map : bad file descriptor",
+  "/p/gb2/welcome3/32k_128x256x1_8x4x4.map",
+  "PATH",
+  4
+ ],
+ [
+  "kern_open_file_for_direct_io took 6 ms",
+  "kern_open_file_for_direct_io",
+  "FUN",
+  2
+ ],
+ [
+  "accepted socket connection from /10.10.34.13:54310",
+  "/10.10.34.13:54310",
+  "URL",
+  0
+ ],
+ [
+  "dnssd_clientstub connecttoserver:connect() failed path:/var/run/mdnsresponder socket:4 err:-1 errno:1 operation not permitted",
+  "connecttoserver:connect()",
+  "FUN",
+  2
+ ],
+ [
+  "10.251.67.225:50010:got exception while serving blk_-6900989714336081087 to /10.251.25.237",
+  "serving",
+  "OTHER",
+  1
+ ],
+ [
+  "rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) psr0=00001f01 psr1=00000000 prxf=00000002 pixf=00000007",
+  "expecting",
+  "OTHER",
+  1
+ ],
+ [
+  "sqm: failed to start upload with file pattern: c:\\windows\\servicing\\sqm\\*_std.sqm , flags: 0x2 [hresult = 0x80004005 - e_fail]",
+  "c:\\windows\\servicing\\sqm\\*_std.sqm",
+  "PATH",
+  4
+ ],
+ [
+  "com.apple.addres(32992) deny network-outbound /private/var/run/mdnsresponder",
+  "/private/var/run/mdnsresponder",
+  "PATH",
+  4
+ ],
+ [
+  "2017-07-06 14:57:16.661 googlesoftwareupdateagent[37059/0x7000002a0000] [lvl=2] -[ksoutofprocessfetcher(privatemethods) helperdidterminate:] ksoutofprocessfetcher fetch ended for url: https://tools.google.com/service/update2?cup2hreq=37fbcb7ab6829be04567976e3212d7a67627aef11546f8b7013d4cffaf51f739&cup2key=7:4200177539",
+  "https://tools.google.com/service/update2?cup2hreq=37fbcb7ab6829be04567976e3212d7a67627aef11546f8b7013d4cffaf51f739&cup2key=7:4200177539",
+  "URL",
+  0
+ ],
+ [
+  "attempt_1445144423722_0020_m_000002_0 taskattempt transitioned from fail_task_cleanup to failed",
+  "fail_task_cleanup",
+  "FUN",
+  2
+ ],
+ [
+  "pam 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost= 119.4.203.64",
+  "119.4.203.64",
+  "IP",
+  3
+ ],
+ [
+  "183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:5070 socks5",
+  "183.62.156.108:22",
+  "URL",
+  0
+ ],
+ [
+  "registering class org.apache.hadoop.mapreduce.v2.app.job.event.jobfinishevent$type for class org.apache.hadoop.mapreduce.v2.app.mrappmaster$jobfinisheventhandler",
+  "org.apache.hadoop.mapreduce.v2.app.job.event.jobfinishevent$type",
+  "FUN",
+  2
+ ],
+ [
+  "page bounds {{0, 0}, {400, 400}}",
+  "bounds",
+  "OTHER",
+  1
+ ],
+ [
+  "application requested orientation -1, got rotation 0 which has compatible metrics",
+  "got",
+  "OTHER",
+  1
+ ],
+ [
+  "activityrecord info: activityinfo{d1c8e63 com.tencent.mobileqq.activity.splashactivity }, euid: 0",
+  "com.tencent.mobileqq.activity.splashactivity",
+  "FUN",
+  2
+ ],
+ [
+  "getresources() for application_1445144423722_0020: ask=4 release= 0 newcontainers=0 finishedcontainers=0 resourcelimit=<memory:0, vcores:-27> knownnms=4",
+  "getresources()",
+  "FUN",
+  2
+ ],
+ [
+  "cupsd startup succeeded",
+  "startup",
+  "OTHER",
+  1
+ ],
+ [
+  "progress of taskattempt attempt_1445144423722_0020_m_000003_0 is : 0.6199081",
+  "taskattempt",
+  "OTHER",
+  1
+ ],
+ [
+  "added filter am_proxy_filter (class= org.apache.hadoop.yarn.server.webproxy.amfilter.amipfilter ) to context static",
+  "org.apache.hadoop.yarn.server.webproxy.amfilter.amipfilter",
+  "FUN",
+  2
+ ],
+ [
+  "remoting started; listening on addresses :[ akka.tcp://sparkexecutoractorsystem@mesos-slave-07:55904 ]",
+  "akka.tcp://sparkexecutoractorsystem@mesos-slave-07:55904",
+  "URL",
+  0
+ ],
+ [
+  "auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us",
+  "cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us",
+  "IP",
+  3
+ ],
+ [
+  "arpt: 762962.511796: airport_brcm43xx::powerchange : system sleep",
+  "airport_brcm43xx::powerchange",
+  "FUN",
+  2
+ ],
+ [
+  "rrd_update ( /var/lib/ganglia/rrds/dnodes/dn731/pkts_out.rrd ): illegal attempt to update using time 1131563089 when last update time is 1131563089 (minimum one second step)",
+  "/var/lib/ganglia/rrds/dnodes/dn731/pkts_out.rrd",
+  "PATH",
+  4
+ ],
+ [
+  "block* ask 10.251.126.5:50010 to delete  blk_-9016567407076718172 blk_-8695715290502978219 blk_-7168328752988473716 blk_-4355192005224403537 blk_-3757501769775889193 blk_-154600013573668394 blk_167132135416677587 blk_2654596473569751784 blk_5202581916713319258",
+  "10.251.126.5:50010",
+  "PATH",
+  4
+ ],
+ [
+  "warning: unrecognized packageextended attribute.",
+  "unrecognized",
+  "OTHER",
+  1
+ ],
+ [
+  "device: /dev/sda , temperature changed -2 celsius to 26 celsius since last report",
+  "/dev/sda",
+  "PATH",
+  4
+ ],
+ [
+  "dhcprequest for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.",
+  "10.100.4.251",
+  "IP",
+  3
+ ],
+ [
+  "flingtoheight: vel=0.0, expand =false, target=0.0, collapsespeedupfactor=1.0, expandbecauseoffalsing=false",
+  "expand",
+  "OTHER",
+  1
+ ],
+ [
+  "[ bluetoothhiddevicecontroller ]error: could not find the disconnected object",
+  "bluetoothhiddevicecontroller",
+  "FUN",
+  2
+ ],
+ [
+  "objc[35391]: class tsuatomiclrucache is implemented in both /library/quicklook/iwork.qlgenerator/contents/macos/iwork and /system/library/privateframeworks/officeimport.framework/versions/a/officeimport. one of the two will be used. which one is undefined.",
+  "/system/library/privateframeworks/officeimport.framework/versions/a/officeimport.",
+  "PATH",
+  4
+ ],
+ [
+  "configuration notice: asl module \"com.apple.performance\" claims selected messages. those messages may not appear in standard system log files or in the asl database.",
+  "selected",
+  "OTHER",
+  1
+ ],
+ [
+  "[ib_sm_sweep.c:1482]: no configuration change required",
+  "configuration",
+  "OTHER",
+  1
+ ],
+ [
+  "dhcprequest for 10.100.4.251 ( 10.100.0.250 ) from 00:11:43:e3:ba:c3 via eth1",
+  "10.100.0.250",
+  "IP",
+  3
+ ],
+ [
+  "chargingspeed  wattage: -1 st: 5000000 --> 7500000",
+  "chargingspeed",
+  "FUN",
+  2
+ ],
+ [
+  "dnssd_clientstub connecttoserver:connect() -> no of tries: 1",
+  "connecttoserver:connect()",
+  "FUN",
+  2
+ ],
+ [
+  "no application identifier provided, can't use provisioning profiles [pid=37563]",
+  "profiles",
+  "OTHER",
+  1
+ ],
+ [
+  "2017-07-07 10:54:41.875 googlesoftwareupdateagent[37924/0x7000002a0000] [lvl=2] -[ksupdatecheckaction performaction] ksupdatecheckaction starting update check for ticket(s): {( <ksticket:0x100365950 productid=com.google.chrome version=59.0.3071.115 xc=<kspathexistencechecker:0x10036e950 path= /applications/google chrome.app> servertype=omaha url=https://tools.google.com/service/update2 creationdate=2017-02-18 15:41:18 tagpath=/applications/google chrome.app/contents/info.plist tagkey=kschannelid brandpath=/users/xpc/library/google/google chrome brand.plist brandkey=ksbrandid versionpath=/applications/google chrome.app/contents/info.plist versionkey=ksversion cohort=1:1y5: cohortname=stable ticketversion=1 > )} using server: <ksomahaserver:0x100243f20 engine=<ksupdateengine:0x1007161b0> >",
+  "/applications/google",
+  "PATH",
+  4
+ ],
+ [
+  "ciod: error reading message prefix after load_message on ciostream socket to 172.16.96.116:34903 : link has been severed",
+  "172.16.96.116:34903",
+  "URL",
+  0
+ ],
+ [
+  "unexpected payload found for message 9, datalen 0",
+  "for",
+  "OTHER",
+  1
+ ],
+ [
+  "attempt_201706092018_0025_m_000002_1194: committed",
+  "committed",
+  "OTHER",
+  1
+ ],
+ [
+  "mdns_deregisterinterface : frequent transitions for interface en0 ( 10.142.110.44 )",
+  "mdns_deregisterinterface",
+  "FUN",
+  2
+ ],
+ [
+  "init -- host controller is published",
+  "controller",
+  "OTHER",
+  1
+ ],
+ [
+  "[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] deletion of /var/lib/nova/instances/63a0d960-70b6-44c6-b606-491478a5cadf_del complete",
+  "/var/lib/nova/instances/63a0d960-70b6-44c6-b606-491478a5cadf_del",
+  "PATH",
+  4
+ ],
+ [
+  "unable to start netbios name service:",
+  "name",
+  "OTHER",
+  1
+ ],
+ [
+  "disconnecting: too many authentication failures for admin [preauth]",
+  "admin",
+  "OTHER",
+  1
+ ],
+ [
+  "yarn.client.max-cached-nodemanagers-proxies : 0",
+  "yarn.client.max-cached-nodemanagers-proxies",
+  "PATH",
+  4
+ ],
+ [
+  "dquot-cache hash table entries: 1024 (order 0, 4096 bytes)",
+  "hash",
+  "OTHER",
+  1
+ ],
+ [
+  "2017-07-06 09:24:14.417 ksfetch[36728/0x7fff79824000] [lvl=2] main() ksfetch fetching url (<nsmutableurlrequest: 0x100602220> { url: https://tools.google.com/service/update2?cup2hreq=f5e83ec64ff3fc5533a3c206134a6517e274f9e1cb53df857e15049b6e4c9f8e&cup2key=7:1721929288 }) to folder:/tmp/ksoutofprocessfetcher.apwod5qmh1/download",
+  "https://tools.google.com/service/update2?cup2hreq=f5e83ec64ff3fc5533a3c206134a6517e274f9e1cb53df857e15049b6e4c9f8e&cup2key=7:1721929288",
+  "URL",
+  0
+ ],
+ [
+  "1 torus receiver x+ input pipe error(s) (dcr 0x02ec) detected and corrected",
+  "receiver",
+  "OTHER",
+  1
+ ],
+ [
+  "block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000318_0",
+  "/user/root/sortrand/_temporary/_task_200811092030_0002_r_000318_0",
+  "PATH",
+  4
+ ],
+ [
+  "io80211awdlpeermanager::setawdlautomode resuming awdl",
+  "io80211awdlpeermanager::setawdlautomode",
+  "FUN",
+  2
+ ],
+ [
+  "zapping low mappings.",
+  "low",
+  "OTHER",
+  1
+ ],
+ [
+  "sqm: failed to start standard sample upload. [hresult = 0x80004005 - e_fail]",
+  "standard",
+  "OTHER",
+  1
+ ],
+ [
+  "hibernate image path: /var/vm/sleepimage",
+  "/var/vm/sleepimage",
+  "PATH",
+  4
+ ],
+ [
+  "event writer setup for jobid: job_1445144423722_0020, file: hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job_1445144423722_0020_1.jhist",
+  "hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job_1445144423722_0020_1.jhist",
+  "URL",
+  0
+ ],
+ [
+  "ciod: error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map : no child processes",
+  "/p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map",
+  "PATH",
+  4
+ ],
+ [
+  "[11:39:18.356] <<<< iq-ca >>>> piqca_setuseprequeue : (0x7fce15069400) rejecting report of layer being serviced - iq has not yet begun to update",
+  "piqca_setuseprequeue",
+  "FUN",
+  2
+ ],
+ [
+  "after trim url = https://www.google.com/_/chrome/newtab?rlz=1c5chfa_enhk732hk732&espv=2&ie=utf-8",
+  "https://www.google.com/_/chrome/newtab?rlz=1c5chfa_enhk732hk732&espv=2&ie=utf-8",
+  "URL",
+  0
+ ],
+ [
+  "[11:50:13.362] itemasync_setproperty signalled err=-12785 (kfigbaseobjecterror_invalidated) (invalidated) at /library/caches/com.apple.xbs/sources/coremedia/coremedia-1731.15.207/prototypes/player/figplayer_async.c line 2306",
+  "/library/caches/com.apple.xbs/sources/coremedia/coremedia-1731.15.207/prototypes/player/figplayer_async.c",
+  "PATH",
+  4
+ ],
+ [
+  "[hid] [mt] applemultitouchdevice::start entered",
+  "applemultitouchdevice::start",
+  "FUN",
+  2
+ ],
+ [
+  "received block blk_-4411589101766563890 src: /10.250.14.38:37362 dest: /10.250.14.38:50010 of size 67108864",
+  "/10.250.14.38:50010",
+  "URL",
+  0
+ ],
+ [
+  "received block blk_-4411589101766563890 src: /10.250.14.38:37362 dest: /10.250.14.38:50010 of size 67108864",
+  "blk_-4411589101766563890",
+  "OTHER",
+  1
+ ],
+ [
+  "start dump, calling from : pid=12782, uid=1000",
+  "from",
+  "OTHER",
+  1
+ ],
+ [
+  "attempt_1445144423722_0020_r_000000_0 taskattempt transitioned from new to unassigned",
+  "taskattempt",
+  "OTHER",
+  1
+ ],
+ [
+  "pam_unix(sshd:session) : session opened for user fztu by (uid=0)",
+  "pam_unix(sshd:session)",
+  "FUN",
+  2
+ ],
+ [
+  "network_reachability_changed : network is not reachable, netbiosd is shutting down",
+  "netbiosd",
+  "OTHER",
+  1
+ ],
+ [
+  "instantiated mrclientservice at minint-fnanli5.fareast.corp.microsoft.com/ 10.86.169.121:62260",
+  "10.86.169.121:62260",
+  "URL",
+  0
+ ],
+ [
+  "pam_unix(sshd:auth) : check pass; user unknown",
+  "pam_unix(sshd:auth)",
+  "FUN",
+  2
+ ],
+ [
+  "orientation change is complete, call stopfreezingdisplaylocked",
+  "stopfreezingdisplaylocked",
+  "FUN",
+  2
+ ]
+]

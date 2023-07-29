@@ -1,0 +1,380 @@
+[
+ [
+  "recalculating schedule, headroom=<memory:0, vcores:-27>",
+  "recalculating",
+  "OTHER",
+  1
+ ],
+ [
+  "nw_nat64_post_new_ifstate successfully changed nat64 ifstate from 0x8000000000000000 to 0x4",
+  "ifstate",
+  "OTHER",
+  1
+ ],
+ [
+  "getringermode() ...",
+  "getringermode()",
+  "FUN",
+  2
+ ],
+ [
+  "objc[35448]: class tsucustomformatdata is implemented in both /library/quicklook/iwork.qlgenerator/contents/macos/iwork and /system/library/privateframeworks/officeimport.framework/versions/a/officeimport. one of the two will be used. which one is undefined.",
+  "/library/quicklook/iwork.qlgenerator/contents/macos/iwork",
+  "PATH",
+  4
+ ],
+ [
+  "machine state register: 0x00002000",
+  "state",
+  "OTHER",
+  1
+ ],
+ [
+  "(importbailout.error:1331) asked to exit for diskarb",
+  "for",
+  "OTHER",
+  1
+ ],
+ [
+  "data_thread() got not answer from any [thunderbird_b7] datasource",
+  "data_thread()",
+  "FUN",
+  2
+ ],
+ [
+  "scheduling restart of crashed service com.tencent.mobileqq/cooperation.qzone.remote.logic.qzonewebpluginproxyservice in 1000ms",
+  "com.tencent.mobileqq/cooperation.qzone.remote.logic.qzonewebpluginproxyservice",
+  "URL",
+  0
+ ],
+ [
+  "jk2_init() can't find child 2085 in scoreboard",
+  "jk2_init()",
+  "FUN",
+  2
+ ],
+ [
+  "received disconnect from 119.137.62.142 : 11: disconnected by user",
+  "119.137.62.142",
+  "IP",
+  3
+ ],
+ [
+  "10.11.10.1 post /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events http/1.1 status: 404 len: 296 time: 0.0835118",
+  "/v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events",
+  "PATH",
+  4
+ ],
+ [
+  "retrying connect to server: msra-sa-41:8030. already tried 0 time(s); retry policy is retryuptomaximumcountwithfixedsleep(maxretries=10, sleeptime=1000 milliseconds)",
+  "already",
+  "OTHER",
+  1
+ ],
+ [
+  "lustre mount failed : bglio136 : point /p/gb1",
+  "/p/gb1",
+  "PATH",
+  4
+ ],
+ [
+  "10.250.13.240:50010 served block blk_-3134225108208373949 to /10.250.13.240",
+  "/10.250.13.240",
+  "IP",
+  3
+ ],
+ [
+  "enqueuenotificationinternal: pkg= com.tencent.mobileqq id=121 notification=notification(pri=1 contentview=null vibrate=[100] sound=null tick defaults=0x0 flags=0x11 color=0x00000000 vis=private)",
+  "com.tencent.mobileqq",
+  "IP",
+  3
+ ],
+ [
+  "__42-[netclientconnection evaluatecrazyivan46]_block_invoke ci46 - hit by torpedo! qq.10018 tc24039 112.90.78.169:8080",
+  "112.90.78.169:8080",
+  "URL",
+  0
+ ],
+ [
+  "2017-07-03 20:25:13.378 googlesoftwareupdateagent[33847/0x7000002a0000] [lvl=2] -[ksupdatecheckaction performaction] ksupdatecheckaction starting update check for ticket(s): {( <ksticket:0x10053b310 productid= com.google.keystone version=1.2.8.57 xc=<kspathexistencechecker:0x10053ac30 path=/users/xpc/library/google/googlesoftwareupdate/googlesoftwareupdate.bundle> url=https://tools.google.com/service/update2 creationdate=2017-02-18 15:41:17 ticketversion=1 > )} using server: <ksomahaserver:0x100248090 engine=<ksupdateengine:0x1007249c0> >",
+  "com.google.keystone",
+  "URL",
+  0
+ ],
+ [
+  "saved output of task 'attempt_201706092018_0024_m_000160_1155' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_",
+  "hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_",
+  "URL",
+  0
+ ],
+ [
+  "[phoneintfmgr] getdataenabled: subid=1 retval=true",
+  "subid=1",
+  "OTHER",
+  1
+ ],
+ [
+  "10.11.10.1 get /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail http/1.1 status: 200 len: 1893 time: 0.2672610",
+  "10.11.10.1",
+  "IP",
+  3
+ ],
+ [
+  "airport: link down on awdl0. reason 1 (unspecified).",
+  "down",
+  "OTHER",
+  1
+ ],
+ [
+  "skipping appwindowtoken{9f4ef63 token=token{a64f992 activityrecord{de9231d u0 com.tencent.qt.qtl/.activity.info.newsdetailxmlactivity t761}}} -- going to hide",
+  "com.tencent.qt.qtl/.activity.info.newsdetailxmlactivity",
+  "URL",
+  0
+ ],
+ [
+  "resolved msra-sa-39.fareast.corp.microsoft.com to /default-rack",
+  "msra-sa-39.fareast.corp.microsoft.com",
+  "IP",
+  3
+ ],
+ [
+  "[com.apple.calendar.store.log.caldav.queue] [adding [<caldavaccountrefreshqueueableoperation: 0x7fa11d73f960; sequence: 0>] to failed operations.]",
+  "failed",
+  "OTHER",
+  1
+ ],
+ [
+  "unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7} globalroot/device/harddiskvolumeshadowcopy2/windows/system32/config/software",
+  "globalroot/device/harddiskvolumeshadowcopy2/windows/system32/config/software",
+  "PATH",
+  4
+ ],
+ [
+  "arpt: 683623.036953: wl0: setup_keepalive: remote ip: 17.249.12.155",
+  "17.249.12.155",
+  "IP",
+  3
+ ],
+ [
+  "mdns_deregisterinterface : frequent transitions for interface awdl0 (fe80:0000:0000:0000:d8a5:90ff:fef5:7fff)",
+  "mdns_deregisterinterface",
+  "FUN",
+  2
+ ],
+ [
+  "applyoptionslocked: unknown animationtype=0",
+  "unknown",
+  "OTHER",
+  1
+ ],
+ [
+  "needautosync autosyncswitch is open",
+  "autosyncswitch",
+  "OTHER",
+  1
+ ],
+ [
+  "message repeated 5 times: [ failed password for root from 106.5.5.195 port 50719 ssh2]",
+  "106.5.5.195",
+  "IP",
+  3
+ ],
+ [
+  "ciod: error reading message prefix on ciostream socket to 172.16.96.116:41587 , connection reset by peer",
+  "172.16.96.116:41587",
+  "URL",
+  0
+ ],
+ [
+  "[hid] [mt] mtactuatormanagement::getactuatorref calling mtactuatoropen() outside of mttrackpadhidmanager.",
+  "calling",
+  "OTHER",
+  1
+ ],
+ [
+  "[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] took 20.09 seconds to spawn the instance on the hypervisor.",
+  "seconds",
+  "OTHER",
+  1
+ ],
+ [
+  "www.google.com:443 error : could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - could not resolve proxy.cse.cuhk.edu.hk error 11001",
+  "resolve",
+  "OTHER",
+  1
+ ],
+ [
+  "memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)",
+  "125312k/129720k",
+  "OTHER",
+  1
+ ],
+ [
+  "iopolledfilepollersopen(0) 6 ms",
+  "iopolledfilepollersopen(0)",
+  "FUN",
+  2
+ ],
+ [
+  "enqueuenotificationinternal : n.getkey = 0|com.tencent.mobileqq|121| null |10111",
+  "null",
+  "OTHER",
+  1
+ ],
+ [
+  "critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type",
+  "warning",
+  "OTHER",
+  1
+ ],
+ [
+  "17:23:43.193: scanning mode contacts only",
+  "contacts",
+  "OTHER",
+  1
+ ],
+ [
+  "session: 30546354_3313121680 initialized by client windowsupdateagent .",
+  "client",
+  "OTHER",
+  1
+ ],
+ [
+  "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] total vcpu: 16 vcpu, used: 0.00 vcpu",
+  "total",
+  "OTHER",
+  1
+ ],
+ [
+  "sigio_handler : sigio_handler_active != 0",
+  "sigio_handler",
+  "FUN",
+  2
+ ],
+ [
+  "tcp_connection_destination_perform_socket_connect 19110 connectx to 183.57.48.75:80 @0 failed: [50] network is down",
+  "tcp_connection_destination_perform_socket_connect",
+  "FUN",
+  2
+ ],
+ [
+  "[11:48:35.539] <<<< boss >>>> figplaybackbossprerollcompleted : unexpected preroll-complete notification",
+  "figplaybackbossprerollcompleted",
+  "FUN",
+  2
+ ],
+ [
+  "10.251.67.225:50010 :got exception while serving blk_-6900989714336081087 to /10.251.25.237:",
+  "10.251.67.225:50010",
+  "URL",
+  0
+ ],
+ [
+  "lognotificationvisibilitychanges runinthread over",
+  "lognotificationvisibilitychanges",
+  "FUN",
+  2
+ ],
+ [
+  "2017-07-06 09:24:14.417 ksfetch[36728/0x7fff79824000] [lvl=2] main() ksfetch fetching url (<nsmutableurlrequest: 0x100602220> { url: https://tools.google.com/service/update2?cup2hreq=f5e83ec64ff3fc5533a3c206134a6517e274f9e1cb53df857e15049b6e4c9f8e&cup2key=7:1721929288 }) to folder:/tmp/ksoutofprocessfetcher.apwod5qmh1/download",
+  "main()",
+  "FUN",
+  2
+ ],
+ [
+  "mapred.job.id is deprecated. instead, use mapreduce.job.id",
+  "mapred.job.id",
+  "FUN",
+  2
+ ],
+ [
+  "ccfile::capturelog received capture notice id: 1499192921.020010, reason = assocfail:sts:5_rsn:0",
+  "ccfile::capturelog",
+  "FUN",
+  2
+ ],
+ [
+  "[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] deleting instance files /var/lib/nova/instances/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4_del",
+  "/var/lib/nova/instances/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4_del",
+  "PATH",
+  4
+ ],
+ [
+  "ifcansync not! no cloud version",
+  "cloud",
+  "OTHER",
+  1
+ ],
+ [
+  "secosstatuswith error:[-50] error domain=nsosstatuserrordomain code=-50 \"query missing class name\" (paramerr: error in user parameter list) userinfo={nsdescription=query missing class name}",
+  "secosstatuswith",
+  "OTHER",
+  1
+ ],
+ [
+  "version 1.0.6 starting",
+  "1.0.6",
+  "OTHER",
+  1
+ ],
+ [
+  "hibernate_teardown: wired_pages 544767, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112",
+  "free_pages",
+  "OTHER",
+  1
+ ],
+ [
+  "wake time set +0.270003 s",
+  "time",
+  "OTHER",
+  1
+ ],
+ [
+  "getappcontext() isappvalid health or wear, packagename = com.huawei.health",
+  "getappcontext()",
+  "FUN",
+  2
+ ],
+ [
+  "sosaccountthisdevicecansyncwithcircle sync with device failure: error domain= com.apple.security.sos.error code=1035 \"account identity not set\" userinfo={nsdescription=account identity not set}",
+  "com.apple.security.sos.error",
+  "IP",
+  3
+ ],
+ [
+  "authentication failure; logname= uid=0 euid=0 tty=nodevssh ruser= rhost= 212.0.132.20  user=test",
+  "212.0.132.20",
+  "IP",
+  3
+ ],
+ [
+  "ccfile::copyfile filename is [2017-07-03_16,27,04.995982]-io80211family-040.pcapng, source path:/var/log/corecapture/com.apple.iokit.io80211family/io80211awdlpeermanager//[2017-07-03_16,27,04.995982]-io80211family-040.pcapng , dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[2017-07-03_16,27,05.123034]=authfail:sts:5_rsn:0/io80211awdlpeermanager//[2017-07-03_16,27,04.995982]-io80211family-040.pcapng",
+  "path:/var/log/corecapture/com.apple.iokit.io80211family/io80211awdlpeermanager//[2017-07-03_16,27,04.995982]-io80211family-040.pcapng",
+  "PATH",
+  4
+ ],
+ [
+  "hibernate_teardown : wired_pages 544767, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112",
+  "hibernate_teardown",
+  "FUN",
+  2
+ ],
+ [
+  "failed password for root from 183.62.140.253 port 59788 ssh2",
+  "183.62.140.253",
+  "IP",
+  3
+ ],
+ [
+  "telling csi to go low power .",
+  "power",
+  "OTHER",
+  1
+ ],
+ [
+  "start u0 {act=android.intent.action.main cat=[android.intent.category.launcher] flg=0x10200000 cmp=com.example.android.notepad/.notepadactivity bnds=[8,820][184,1011]} from uid 10057 on display 0",
+  "from",
+  "FUN",
+  2
+ ]
+]

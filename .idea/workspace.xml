@@ -2,6 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c32ad564-4714-4a52-9c20-2fb837a732cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dimension Inference/aldimclf/label_dict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dimension Inference/aldimclf/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dimension Inference/aldimclf/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dimension Inference/aldimclf/valid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/altokclf/label_dict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/altokclf/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/altokclf/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/altokclf/valid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/numsclf/label_dict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/numsclf/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/numsclf/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/numsclf/valid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/sptokclf/label_dict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/sptokclf/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/sptokclf/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fine-grained Token Classification/sptokclf/valid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semantic Inference/semantic.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log summary/all2smy_clean/Drain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log summary/all2smy_clean/clean_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log summary/allg2smy/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log summary/allg2smy/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log summary/allg2smy/valid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging inference/csha2log/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging inference/csha2log/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging inference/csha2log/valid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging inference/java2log/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging inference/java2log/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging inference/java2log/valid.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -24,12 +53,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "/Users/leaper/Codehub/Pycharm/paper/LogGLUE/Semantic Inference",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Semantic Inference" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,11 +77,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690620222112</updated>
-      <workItem from="1690620223542" duration="5563000" />
+      <workItem from="1690620223542" duration="16851000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1690628551796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690628551796</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

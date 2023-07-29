@@ -1,0 +1,287 @@
+[
+ [
+  "pm response took 1999 [MASK] (54, powerd)",
+  "ms",
+  4
+ ],
+ [
+  "com.apple.softwareupdate.activity: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 105.8167 [MASK]  ignoring.",
+  "min",
+  10
+ ],
+ [
+  "pmstats: hibernate read took 197 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 16227 [MASK]  ignoring.",
+  "sec",
+  6
+ ],
+ [
+  "[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] total memory: 64172 mb, used: 0.5 [MASK]",
+  "gb",
+  2
+ ],
+ [
+  "13 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 4562 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 0.4914 [MASK]  ignoring.",
+  "h",
+  11
+ ],
+ [
+  "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] attempting claim: memory 2 [MASK] disk 20 gb, vcpus 1 cpu",
+  "gb",
+  2
+ ],
+ [
+  "wake time set +0.270003 [MASK]",
+  "s",
+  5
+ ],
+ [
+  "hibernate_machine_init pagesdone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 mb/s, comp bytes: 40017920 time: 27 ms 1412 [MASK] crypt bytes: 160550912 time: 39 ms 3904 mb/s",
+  "mb/s",
+  12
+ ],
+ [
+  "total of 1 ddr error(s) detected and corrected over 41.45 [MASK]",
+  "min",
+  10
+ ],
+ [
+  "finished task 2.0 in stage 14.0 (tid 590). 2087 [MASK] result sent to driver",
+  "bytes",
+  3
+ ],
+ [
+  "block broadcast_36 stored as values in memory (estimated size 281.6 [MASK] free 803.9 kb)",
+  "kb",
+  0
+ ],
+ [
+  "pm response took 0.129 [MASK] (10018, qq)",
+  "sec",
+  6
+ ],
+ [
+  "block broadcast_33 stored as values in memory (estimated size 82.1 kb, free 0.475 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "device: /dev/sda, temperature changed -2 [MASK] to 26 celsius since last report",
+  "us",
+  7
+ ],
+ [
+  "[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] total disk: 15 [MASK] used: 0.00 gb",
+  "gb",
+  2
+ ],
+ [
+  "sqm: cleaning up report files older than 10 [MASK]",
+  "day",
+  9
+ ],
+ [
+  "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] total memory: 64172 mb, used: 512.00 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] took 1.02 [MASK] to destroy the instance on the hypervisor.",
+  "sec",
+  6
+ ],
+ [
+  "applethunderboltnhitype2::prepciwake - power up complete - took 1 [MASK]",
+  "us",
+  7
+ ],
+ [
+  "hibernate_rebuild completed - took 10042450943433 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "reading broadcast variable 12 took 30 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "user unknown timed out after 15 [MASK] at sat jun 18 02:23:10 2005",
+  "min",
+  10
+ ],
+ [
+  "block broadcast_25_piece0 stored as bytes in memory (estimated size 5.7 [MASK] free 409.5 kb)",
+  "kb",
+  0
+ ],
+ [
+  "hibernate_page_list_setall time: 0.01 [MASK]",
+  "min",
+  10
+ ],
+ [
+  "hibernate_newruntime_map time: 0 [MASK] iopolledfilepollersopen(), ml_get_interrupts_enabled 0",
+  "s",
+  5
+ ],
+ [
+  "total of 5 ddr error(s) detected and corrected over 9108 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "pmstats: hibernate read took 0.197 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "memorystore started with capacity 18124.8 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "reading broadcast variable 12 took 0.03 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "total of 3 ddr error(s) detected and corrected over 2.4256 [MASK]",
+  "h",
+  11
+ ],
+ [
+  "[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] memory limit: 94.00 [MASK] free: 95746.00 mb",
+  "gb",
+  2
+ ],
+ [
+  "sqm: cleaning up report files older than 14400 [MASK]",
+  "min",
+  10
+ ],
+ [
+  "10666 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 [MASK] max time in a critical input interrupt.",
+  "sec",
+  6
+ ],
+ [
+  "hibernate_setup(0) took 4429 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 4321 [MASK] @ 48 took 0.607292 sec. to complete, 7 reads >= 0.5 sec.",
+  "bytes",
+  3
+ ],
+ [
+  "block broadcast_36 stored as values in memory (estimated size 281.6 kb, free 803.9 [MASK]",
+  "kb",
+  0
+ ],
+ [
+  "iopolledfilepollersopen(0) 6 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "reading broadcast variable 31 took 8 [MASK]",
+  "ms",
+  4
+ ],
+ [
+  "[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] total disk: 15 gb, used: 0.00 [MASK]",
+  "gb",
+  2
+ ],
+ [
+  "<<<< figbytestream >>>> figbytestreamstatslogoneread: bytestream read of 21335 [MASK] @ 5481561 took 0.501237 sec. to complete, 16 reads >= 0.5 sec.",
+  "bytes",
+  3
+ ],
+ [
+  "block broadcast_25_piece0 stored as bytes in memory (estimated size 5.7 kb, free 409.5 [MASK]",
+  "kb",
+  0
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s, comp bytes: 47288320 time: 32 ms 1369 [MASK] crypt bytes: 158441472 time: 38 ms 3973 mb/s",
+  "mb/s",
+  12
+ ],
+ [
+  "hibernate_newruntime_map time: 0 [MASK] iopolledfilepollersopen(), ml_get_interrupts_enabled 0",
+  "day",
+  9
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s, comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt bytes: 158441472 time: 38 [MASK] 3973 mb/s",
+  "ms",
+  4
+ ],
+ [
+  "[instance: 95960536-049b-41f6-9049-05fc479b6a7c] total memory: 62.66 [MASK] used: 512.00 mb",
+  "gb",
+  2
+ ],
+ [
+  "2 l3 edram error(s) (dcr 0x0157) detected and corrected over 282 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "1 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 244 [MASK]",
+  "sec",
+  6
+ ],
+ [
+  "[instance: 95960536-049b-41f6-9049-05fc479b6a7c] total memory: 64172 mb, used: 512.00 [MASK]",
+  "mb",
+  1
+ ],
+ [
+  "applethunderboltnhitype2::prepciwake - power up complete - took 5 [MASK]",
+  "us",
+  7
+ ],
+ [
+  "com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 29.4833 [MASK]  ignoring.",
+  "min",
+  10
+ ],
+ [
+  "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] memory limit: 96258.00 mb, free: 93.5 [MASK]",
+  "gb",
+  2
+ ],
+ [
+  "[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] attempting claim: memory 2048 mb, disk 20 [MASK] vcpus 1 cpu",
+  "gb",
+  2
+ ],
+ [
+  "inode-cache hash table entries: 8192 (order: 3, 32 [MASK]",
+  "kb",
+  0
+ ],
+ [
+  "api.github.com:443 close, 797 [MASK] sent, 4814 bytes (4.70 kb) received, lifetime 00:11",
+  "bytes",
+  3
+ ],
+ [
+  "[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] took 0.3387 [MASK] to spawn the instance on the hypervisor.",
+  "min",
+  10
+ ]
+]

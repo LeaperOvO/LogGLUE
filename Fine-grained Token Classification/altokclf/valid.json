@@ -1,0 +1,662 @@
+[
+ [
+  "did not receive identification string from 103.207.39.16",
+  "103.207.39.16",
+  "IP",
+  7
+ ],
+ [
+  "assertion failed: 15g1510: com.apple.telemetry + 38574 [10d2e324-788c-30cc-a749-55ae67aec7bc]: 0x7fc235807b90",
+  "38574",
+  "VAR",
+  0
+ ],
+ [
+  "tcp_connection_destination_perform_socket_connect 21152 connectx to 203.205.147.206:8080@0 failed: [51] network is unreachable",
+  "21152",
+  "VAR",
+  0
+ ],
+ [
+  "hibernate image path: /var/vm/sleepimage",
+  "image",
+  "OTHER",
+  5
+ ],
+ [
+  "opened file /var/log/sleepwakestacks.bin, size 172032, extents 1, maxio 2000000 ssd 1",
+  "2000000",
+  "STATE",
+  2
+ ],
+ [
+  "hibernate_teardown: wired_pages 544767, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112",
+  "free_pages",
+  "OTHER",
+  5
+ ],
+ [
+  "2017-07-06 09:24:14.417 ksfetch[36728/0x7fff79824000] [lvl=2] main() ksfetch fetching url (<nsmutableurlrequest: 0x100602220> { url: https://tools.google.com/service/update2?cup2hreq=f5e83ec64ff3fc5533a3c206134a6517e274f9e1cb53df857e15049b6e4c9f8e&cup2key=7:1721929288 }) to folder:/tmp/ksoutofprocessfetcher.apwod5qmh1/download",
+  "https://tools.google.com/service/update2?cup2hreq=f5e83ec64ff3fc5533a3c206134a6517e274f9e1cb53df857e15049b6e4c9f8e&cup2key=7:1721929288",
+  "URL",
+  4
+ ],
+ [
+  "authentication failure; logname= uid=0 euid=0 tty=nodevssh ruser= rhost= 150.183.249.110  user=root",
+  "150.183.249.110",
+  "IP",
+  7
+ ],
+ [
+  "1 torus receiver x+ input pipe error(s) (dcr 0x02ec) detected and corrected",
+  "receiver",
+  "OTHER",
+  5
+ ],
+ [
+  "pe/pv model: 1x2 scsi bp rev: 1.0",
+  "1.0",
+  "STATE",
+  2
+ ],
+ [
+  "path not allowed in target domain: type = pid, path = /system/library/stagedframeworks/safari/safarishared.framework/versions/a/xpcservices/com.apple.safari.history.xpc/contents/macos/com.apple.safari.history error = 147: the specified service did not ship in the requestor's bundle, origin = /system/library/stagedframeworks/safari/webkit.framework/versions/a/xpcservices/com.apple.webkit.webcontent.xpc",
+  "/system/library/stagedframeworks/safari/webkit.framework/versions/a/xpcservices/com.apple.webkit.webcontent.xpc",
+  "PATH",
+  8
+ ],
+ [
+  "critical input interrupt (unit=0x0b bit=0x0b): warning for torus z- wire",
+  "input",
+  "OTHER",
+  5
+ ],
+ [
+  "hibernate_machine_init: state 2, image pages 446175, sum was d4e6c0b2, imagesize 0x2aea6000, image1size 0x215a4000, conflictcount 5848, nextfree 5887",
+  "5887",
+  "STATE",
+  2
+ ],
+ [
+  "sending alarm alarm{aa90550 type 3 when 509142332 pendingintent{1749923: pendingintentrecord{9600e20 android broadcastintent}}},repeatinterval = 0,listenertag =time_tick",
+  "3",
+  "STATE",
+  2
+ ],
+ [
+  "ending trustedinstaller finalization.",
+  "ending",
+  "OTHER",
+  5
+ ],
+ [
+  "applecamin::systemwakecall - messagetype = 0xe0000300",
+  "applecamin::systemwakecall",
+  "OTHER",
+  5
+ ],
+ [
+  "server created on 40984",
+  "40984",
+  "VAR",
+  0
+ ],
+ [
+  "ciod: error loading /g/g24/buber/yunsic/bluegene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160",
+  "361544528",
+  "COUNT",
+  1
+ ],
+ [
+  "start u0 {act=android.intent.action.main cat=[android.intent.category.launcher] flg=0x10200000 cmp=com.example.android.notepad/.notepadactivity bnds=[8,820][184,1011]} from uid 10057 on display 0",
+  "from",
+  "FUN",
+  6
+ ],
+ [
+  "opened file /var/log/sleepwakestacks.bin, size 172032 , extents 1, maxio 2000000 ssd 1",
+  "172032",
+  "COUNT",
+  1
+ ],
+ [
+  "mod_jk child workerenv in error state 6",
+  "in",
+  "OTHER",
+  5
+ ],
+ [
+  "auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us",
+  "cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us",
+  "IP",
+  7
+ ],
+ [
+  "follower sid: 3 : info : org.apache.zookeeper.server.quorum.quorumpeer$quorumserver@33557fe4",
+  "org.apache.zookeeper.server.quorum.quorumpeer$quorumserver@33557fe4",
+  "FUN",
+  6
+ ],
+ [
+  "reload : 3786 restar 0",
+  "3786",
+  "VAR",
+  0
+ ],
+ [
+  "instruction address space .........0",
+  "space",
+  "OTHER",
+  5
+ ],
+ [
+  "scheduletimetickevent triggerattime = 509262332",
+  "triggerattime",
+  "OTHER",
+  5
+ ],
+ [
+  "kernel detected 3486044 integer alignment exceptions (3486037) iar 0x00544ea8, dear 0x01ef7c60 (3486038) iar 0x00544eb8, dear 0x01ef7c80 (3486039) iar 0x00544ea8, dear 0x01ef7ca0 (3486040) iar 0x00544eb8, dear 0x01ef7cc0 (3486041) iar 0x00544ee0, dear 0x01ef7ce0 (3486042) iar 0x00544ef0, dear 0x01ef7d00 (3486043) iar 0x00544ee0, dear 0x01ef7d20 (3486044) iar 0x00544ef0, dear 0x01ef7d40",
+  "3486044",
+  "COUNT",
+  1
+ ],
+ [
+  "[bluetoothhiddevicecontroller] eventserviceconnectedcallback",
+  "eventserviceconnectedcallback",
+  "FUN",
+  6
+ ],
+ [
+  "[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] total vcpu: 16 vcpu, used: 0.00 vcpu",
+  "16",
+  "COUNT",
+  1
+ ],
+ [
+  "sqm: queued 0 file(s) for upload with pattern: c:\\windows\\servicing\\sqm\\*_all.sqm , flags: 0x6",
+  "c:\\windows\\servicing\\sqm\\*_all.sqm",
+  "PATH",
+  8
+ ],
+ [
+  "ja9j1dq7016560: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1625423, relay=[ 127.0.0.1 ] [127.0.0.1], dsn=4.0.0, stat=deferred: connection refused by [127.0.0.1]",
+  "127.0.0.1",
+  "IP",
+  7
+ ],
+ [
+  "error returned from iconservicesagent: (null)",
+  "from",
+  "OTHER",
+  5
+ ],
+ [
+  "10.251.67.225:50010 :got exception while serving blk_-6900989714336081087 to /10.251.25.237:",
+  "10.251.67.225:50010",
+  "URL",
+  4
+ ],
+ [
+  "getrecenttasks : num=10,flags=62,totaltasks=46",
+  "getrecenttasks",
+  "FUN",
+  6
+ ],
+ [
+  "arpt: 683623.036953: wl0: setup_keepalive: remote ip: 17.249.12.155",
+  "17.249.12.155",
+  "IP",
+  7
+ ],
+ [
+  "using 14.318180 mhz hpet timer.",
+  "14.318180",
+  "COUNT",
+  1
+ ],
+ [
+  "sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak exp $",
+  "2002/03/24",
+  "OTHER",
+  5
+ ],
+ [
+  "hci daemon ver 2.4 started",
+  "2.4",
+  "VAR",
+  0
+ ],
+ [
+  "arpt: 621131.293163: wl0: roamed or switched channel, reason #8, bssid 5c:50:15:4c:18:13, last rssi -64",
+  "-64",
+  "STATE",
+  2
+ ],
+ [
+  "critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type",
+  "warning",
+  "OTHER",
+  5
+ ],
+ [
+  "revalidating client: 0x24f0557806a001c",
+  "revalidating",
+  "OTHER",
+  5
+ ],
+ [
+  "ccprofilemonitor::freeresources done",
+  "ccprofilemonitor::freeresources",
+  "FUN",
+  6
+ ],
+ [
+  "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at ( /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742 ): in use: on this node 1 local, 0 on other nodes sharing this instance storage",
+  "/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742",
+  "PATH",
+  8
+ ],
+ [
+  "warning: type1 font data isn't in the correct format required by the adobe type 1 font format specification.",
+  "1",
+  "STATE",
+  2
+ ],
+ [
+  "arpt: 672041.595629: wl0: setup_keepalive: interval 258, retry_interval 30, retry_count 10",
+  "interval",
+  "OTHER",
+  5
+ ],
+ [
+  "finished task 1.0 in stage 29.0 (tid 1321). 2171 bytes result sent to driver",
+  "29.0",
+  "VAR",
+  0
+ ],
+ [
+  "printfreezingdisplaylogsopening app wtoken = appwindowtoken{9f4ef63 token=token{a64f992 activityrecord{de9231d u0 com.tencent.qt.qtl/.activity.info.newsdetailxmlactivity t761}}}, alldrawn= false, startingdisplayed =  false, startingmoved =  false, isrelaunching =  false",
+  "printfreezingdisplaylogsopening",
+  "FUN",
+  6
+ ],
+ [
+  "slow readprocessor read fields took 65020ms (threshold=30000ms); ack: seqno: -2 status: success status: error downstreamacktimenanos: 0, targets: [10.86.169.121:50010, 10.190.173.170:50010]",
+  "-2",
+  "STATE",
+  2
+ ],
+ [
+  "diagnostics report from attempt_1445144423722_0020_m_000002_0 : error: java.net.noroutetohostexception: no route to host from  minint-fnanli5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.noroutetohostexception : no route to host: no further information; for more details see:  http://wiki.apache.org/hadoop/noroutetohost",
+  "attempt_1445144423722_0020_m_000002_0",
+  "OTHER",
+  5
+ ],
+ [
+  "reading broadcast variable 19 took 12 ms",
+  "12",
+  "COUNT",
+  1
+ ],
+ [
+  "eth0: e1000_watchdog: nic link is up 1000 mbps full duplex",
+  "1000",
+  "COUNT",
+  1
+ ],
+ [
+  "ciod: error reading message prefix after load_message on ciostream socket to 172.16.96.116:34903 : link has been severed",
+  "172.16.96.116:34903",
+  "URL",
+  4
+ ],
+ [
+  "nodecard is not fully functional",
+  "not",
+  "OTHER",
+  5
+ ],
+ [
+  "2017-07-06 00:30:37.064 ksfetch[36439/0x7fff79824000] [lvl=2] main() fetcher is exiting.",
+  "main()",
+  "FUN",
+  6
+ ],
+ [
+  "wake time set +0.270003 s",
+  "time",
+  "OTHER",
+  5
+ ],
+ [
+  "arpt: 728046.456828: wl0: setup_keepalive: local ip: 10.142.108.38",
+  "10.142.108.38",
+  "IP",
+  7
+ ],
+ [
+  "unexpected payload found for message 9, datalen 0",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "-[netclientconnection evaluatecrazyivan46] ci46 - perform crazyivan46! qq.10018 tc25805 123.151.137.106:80",
+  "123.151.137.106:80",
+  "URL",
+  4
+ ],
+ [
+  "authentication failure; logname= uid=0 euid=0 tty=nodevssh ruser= rhost= 209.152.168.249  user=guest",
+  "209.152.168.249",
+  "IP",
+  7
+ ],
+ [
+  "127.0.0.1:135 error : could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - proxy server cannot establish a connection with the target, status code 403",
+  "403",
+  "STATE",
+  2
+ ],
+ [
+  "onnotificationvisibilitychanged called",
+  "onnotificationvisibilitychanged",
+  "FUN",
+  6
+ ],
+ [
+  "scheduletimetickevent triggerattime = 509262332",
+  "509262332",
+  "COUNT",
+  1
+ ],
+ [
+  "en0: 802.11d country code set to 'x3'.",
+  "set",
+  "OTHER",
+  5
+ ],
+ [
+  "using configuration type 1",
+  "1",
+  "STATE",
+  2
+ ],
+ [
+  "[hsm] stayawake false uid: 10111, pid: 28601",
+  "28601",
+  "VAR",
+  0
+ ],
+ [
+  "failed to create backup log cab. [hresult = 0x80070001 - error_invalid_function]",
+  "log",
+  "OTHER",
+  5
+ ],
+ [
+  "error: bind to port 22 on 0.0.0.0 failed: address already in use.",
+  "0.0.0.0",
+  "IP",
+  7
+ ],
+ [
+  "unrecognized attribute value: t:abchpersonitemtype",
+  "t:abchpersonitemtype",
+  "FUN",
+  6
+ ],
+ [
+  "hibernate_rebuild_completed - took 10042450943433 msecs",
+  "hibernate_rebuild_completed",
+  "FUN",
+  6
+ ],
+ [
+  "built 1 zonelists",
+  "1",
+  "OTHER",
+  5
+ ],
+ [
+  "diagnostics report from attempt_1445144423722_0020_m_000002_0: error: java.net.noroutetohostexception: no route to host from  minint-fnanli5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.noroutetohostexception : no route to host: no further information; for more details see:  http://wiki.apache.org/hadoop/noroutetohost",
+  "http://wiki.apache.org/hadoop/noroutetohost",
+  "URL",
+  4
+ ],
+ [
+  "notification: 3 (n.leader), 0x0 (n.zxid), 0x1 (n.round), looking (n.state), 3 (n.sid), 0x0 (n.peerepoch), looking (my state)",
+  "3",
+  "OTHER",
+  5
+ ],
+ [
+  "notification time out: 60000",
+  "60000",
+  "COUNT",
+  1
+ ],
+ [
+  "arpt: 621131.293163: wl0: roamed or switched channel, reason #8, bssid 5c:50:15:4c:18:13, last rssi -64",
+  "switched",
+  "OTHER",
+  5
+ ],
+ [
+  "savehealthdetaildata() saveonedetaildata fail hihealthdata = 1513958400000,type = 40005",
+  "savehealthdetaildata()",
+  "FUN",
+  6
+ ],
+ [
+  "hibernate_alloc_pages act 107794, inact 10088, anon 460, throt 0, spec 58021, wire 572831, wireinit 39927",
+  "39927",
+  "VAR",
+  0
+ ],
+ [
+  "kernel time sync disabled 0041",
+  "0041",
+  "COUNT",
+  1
+ ],
+ [
+  "web app /mapreduce started at 62267",
+  "62267",
+  "COUNT",
+  1
+ ],
+ [
+  "cgxdisplaydidwakenotification [771797848593539]: posting kcgsdisplaydidwake",
+  "posting",
+  "OTHER",
+  5
+ ],
+ [
+  "imps2: auto-detected intellimouse ps/2",
+  "ps/2",
+  "PATH",
+  8
+ ],
+ [
+  "prepareforservice shutting down node card(mlctn(r10-m1-n2), mcardsernum(203231503833343000000000594c31304b34323934303257), mlp(ff:f2:9f:16:e0:da:00:0d:60:e9:1f:25), mip(10.1.1.164), mtype(4)) as part of service action 648",
+  "648",
+  "VAR",
+  0
+ ],
+ [
+  "pam 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= 5.188.10.180",
+  "5.188.10.180",
+  "IP",
+  7
+ ],
+ [
+  "using callqueue class java.util.concurrent.linkedblockingqueue",
+  "java.util.concurrent.linkedblockingqueue",
+  "FUN",
+  6
+ ],
+ [
+  "2 l3 edram error(s) (dcr 0x0157) detected and corrected over 282 seconds",
+  "2",
+  "COUNT",
+  1
+ ],
+ [
+  "task: attempt_1445144423722_0020_m_000001_0 - exited : java.net.noroutetohostexception : no route to host from  minint-fnanli5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.noroutetohostexception : no route to host: no further information; for more details see:  http://wiki.apache.org/hadoop/noroutetohost",
+  "exited",
+  "OTHER",
+  5
+ ],
+ [
+  "dma zone: 4096 pages, lifo batch:1",
+  "4096",
+  "COUNT",
+  1
+ ],
+ [
+  "arpt: 640362.070027: wl0: wl_update_tcpkeep_seq: original seq: 2000710617, ack: 2120985509, win size: 4096",
+  "original",
+  "OTHER",
+  5
+ ],
+ [
+  "tcp_connection_destination_perform_socket_connect 19110 connectx to 183.57.48.75:80 @0 failed: [50] network is down",
+  "183.57.48.75:80",
+  "URL",
+  4
+ ],
+ [
+  "tcp_connection_handle_connect_conditions_bad 26042 failed: 3 - no network route",
+  "26042",
+  "COUNT",
+  1
+ ],
+ [
+  "[hid] [mt] appleactuatorhideventdriver::start entered",
+  "appleactuatorhideventdriver::start",
+  "FUN",
+  6
+ ],
+ [
+  "connection request from old client /10.10.34.12:56424 ; will be dropped if server is in r-o mode",
+  "/10.10.34.12:56424",
+  "URL",
+  4
+ ],
+ [
+  "pam_unix(sshd:session) : session opened for user fztu by (uid=0)",
+  "pam_unix(sshd:session)",
+  "FUN",
+  6
+ ],
+ [
+  "location icon should now be in state 'active'",
+  "state",
+  "OTHER",
+  5
+ ],
+ [
+  "scavenge: completed , disposition: 0x1",
+  "completed",
+  "OTHER",
+  5
+ ],
+ [
+  "tcpconn.tencent.com:80 close, 133 bytes sent, 0 bytes received, lifetime <1 sec",
+  "133",
+  "COUNT",
+  1
+ ],
+ [
+  "pam service(sshd) ignoring max retries; 5 > 3",
+  "5",
+  "COUNT",
+  1
+ ],
+ [
+  "android.util.androidruntimeexception : must execute in ui",
+  "android.util.androidruntimeexception",
+  "FUN",
+  6
+ ],
+ [
+  "[hid] [mt] applemultitouchdevice::start entered",
+  "applemultitouchdevice::start",
+  "FUN",
+  6
+ ],
+ [
+  "sqm: failed to start upload with file pattern: c:\\windows\\servicing\\sqm\\*_std.sqm , flags: 0x2 [hresult = 0x80004005 - e_fail]",
+  "c:\\windows\\servicing\\sqm\\*_std.sqm",
+  "PATH",
+  8
+ ],
+ [
+  "found block rdd_30_1 locally",
+  "found",
+  "OTHER",
+  5
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s, comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt bytes: 158441472 time: 38 ms 3973 mb/s",
+  "455920",
+  "COUNT",
+  1
+ ],
+ [
+  "normal zone: 28334 pages, lifo batch:6",
+  "28334",
+  "COUNT",
+  1
+ ],
+ [
+  "subsystem revision 20040816",
+  "20040816",
+  "VAR",
+  0
+ ],
+ [
+  "total usable vcpus: 16 , total allocated vcpus: 0",
+  "16",
+  "COUNT",
+  1
+ ],
+ [
+  "[ bluetoothhiddevicecontroller ]error: could not find the disconnected object",
+  "bluetoothhiddevicecontroller",
+  "FUN",
+  6
+ ],
+ [
+  "chargingspeed  wattage: -1 st: 5000000 --> 7500000",
+  "-1",
+  "STATE",
+  2
+ ],
+ [
+  "2 l3 edram error(s) (dcr 0x0157) detected and corrected over 282 seconds",
+  "282",
+  "COUNT",
+  1
+ ],
+ [
+  "vm_compressor_fastwake_warmup completed - took 12461 msecs",
+  "12461",
+  "COUNT",
+  1
+ ],
+ [
+  "ciod: message code 0 is not 51 or 4294967295",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "disconnecting: too many authentication failures for admin [preauth]",
+  "admin",
+  "OTHER",
+  5
+ ]
+]

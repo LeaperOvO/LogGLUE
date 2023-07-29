@@ -1,0 +1,11 @@
+{
+ "VAR": 0,
+ "COUNT": 1,
+ "STATE": 2,
+ "PORT": 3,
+ "URL": 4,
+ "OTHER": 5,
+ "FUN": 6,
+ "IP": 7,
+ "PATH": 8
+}

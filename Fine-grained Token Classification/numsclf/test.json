@@ -1,0 +1,566 @@
+[
+ [
+  "mount-cache hash table entries: 512 (order: 0, 4096 bytes)",
+  "512",
+  "COUNT",
+  1
+ ],
+ [
+  "18507114 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 198 seconds",
+  "18507114",
+  "COUNT",
+  1
+ ],
+ [
+  "ccioreporterformatter::addregistrychildtochanneldictionary streams 7",
+  "7",
+  "COUNT",
+  1
+ ],
+ [
+  "iopolledfilepollersopen(0) 6 ms",
+  "6",
+  "COUNT",
+  1
+ ],
+ [
+  "full wake promotion (reason 1) 374 ms",
+  "374",
+  "COUNT",
+  1
+ ],
+ [
+  "cancelnotificationlocked called,tell the app,reason = 1",
+  "1",
+  "STATE",
+  2
+ ],
+ [
+  "efi pagecount 72",
+  "72",
+  "COUNT",
+  1
+ ],
+ [
+  "error in coredragremovetrackinghandler: -1856",
+  "-1856",
+  "STATE",
+  2
+ ],
+ [
+  "checkfirstsyncbytype no such data in db ,type is 1 devicecode is 0",
+  "1",
+  "COUNT",
+  1
+ ],
+ [
+  "ciod: message code 0 is not 51 or 4294967295",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "bios-e820: 00000000000f0000 - 0000000000100000 (reserved)",
+  "0000000000100000",
+  "COUNT",
+  1
+ ],
+ [
+  "pci hot plug pci core version: 0.5",
+  "0.5",
+  "STATE",
+  2
+ ],
+ [
+  "usbmsc identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3",
+  "3",
+  "STATE",
+  2
+ ],
+ [
+  "booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms",
+  "1251",
+  "COUNT",
+  1
+ ],
+ [
+  "assertion failed: 15g1510: com.apple.telemetry + 38574 [10d2e324-788c-30cc-a749-55ae67aec7bc]: 0x7fc235807b90",
+  "38574",
+  "VAR",
+  0
+ ],
+ [
+  "scanning scsi channel 0 [phy 0] for non-raid devices",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "10.11.10.1 \"post /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events http/1.1\" status: 404 len: 296 time: 0.0835118",
+  "296",
+  "COUNT",
+  1
+ ],
+ [
+  "pam service(sshd) ignoring max retries; 5 > 3",
+  "3",
+  "COUNT",
+  1
+ ],
+ [
+  "ido chip status changed: ff:f2:9f:16:eb:27:00:0d:60:e9:14:d8 ip=10.0.2.192 v=13 t=4 status=m thu aug 04 15:29:45 pdt 2005",
+  "2005",
+  "VAR",
+  0
+ ],
+ [
+  "getresources() for application_1445144423722_0020: ask=4 release= 0 newcontainers=0 finishedcontainers=0 resourcelimit=<memory:0, vcores:-27> knownnms=4",
+  "0",
+  "COUNT",
+  1
+ ],
+ [
+  "[11:31:49.593] itemasync_copyproperty signalled err=-12785 (kfigbaseobjecterror_invalidated) (invalidated) at /library/caches/com.apple.xbs/sources/coremedia/coremedia-1731.15.207/prototypes/player/figplayer_async.c line 2092",
+  "2092",
+  "VAR",
+  0
+ ],
+ [
+  "activityrecord info: activityinfo{d1c8e63 com.tencent.mobileqq.activity.splashactivity}, euid: 0",
+  "0",
+  "VAR",
+  0
+ ],
+ [
+  "refreshbatteryinfo isbatterylow: 23",
+  "23",
+  "STATE",
+  2
+ ],
+ [
+  "(diskstore.normal:2382) 20cb04f 1.000086",
+  "1.000086",
+  "COUNT",
+  1
+ ],
+ [
+  "sigio_handler: sigio_handler_active != 0",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "bitmap_size 0x7f0fc, previewsize 0x4028, writing 485676 pages @ 0x97144",
+  "485676",
+  "COUNT",
+  1
+ ],
+ [
+  "reboot mark refs incremented to: 1",
+  "1",
+  "COUNT",
+  1
+ ],
+ [
+  "opened file /var/log/sleepwakestacks.bin, size 172032, extents 1, maxio 2000000 ssd 1",
+  "2000000",
+  "STATE",
+  2
+ ],
+ [
+  "notification: 3 (n.leader), 0x100001564 (n.zxid), 0x3 (n.round), following (n.state), 3 (n.sid), 0x2 (n.peerepoch), following (my state)",
+  "3",
+  "COUNT",
+  1
+ ],
+ [
+  "starting socket reader #1 for port 62260",
+  "62260",
+  "PORT",
+  3
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s, comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt bytes: 158441472 time: 38 ms 3973 mb/s",
+  "38",
+  "COUNT",
+  1
+ ],
+ [
+  "tcpconn.tencent.com:80 close, 133 bytes sent, 0 bytes received, lifetime <1 sec",
+  "0",
+  "COUNT",
+  1
+ ],
+ [
+  "setsystemuivisibility vis=0 mask=1 oldval=40000500 newval=40000500 diff=0 fullscreenstackvis=0 dockedstackvis=0, fullscreenstackbounds=rect(0, 0 - 0, 0), dockedstackbounds=rect(0, 0 - 0, 0)",
+  "0",
+  "COUNT",
+  1
+ ],
+ [
+  "[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] total disk: 15 gb, used: 0.00 gb",
+  "0.00",
+  "COUNT",
+  1
+ ],
+ [
+  "arpt: 672041.595629 : wl0: setup_keepalive: interval 258, retry_interval 30, retry_count 10",
+  "672041.595629",
+  "VAR",
+  0
+ ],
+ [
+  "interceptkeybeforequeueing: key 3 , result : 1",
+  "1",
+  "COUNT",
+  1
+ ],
+ [
+  "could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0",
+  "56242",
+  "VAR",
+  0
+ ],
+ [
+  "got allocated containers 1",
+  "1",
+  "COUNT",
+  1
+ ],
+ [
+  "thermal pressure state: 1 memory pressure state: 0",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "ciod: generated 128 core files for program /home/germann2/bgl-demo/spasm_mpi",
+  "128",
+  "COUNT",
+  1
+ ],
+ [
+  "getdevicesforstream  streamtype: 3",
+  "3",
+  "STATE",
+  2
+ ],
+ [
+  "blacklistdisablepercent is 33",
+  "33",
+  "STATE",
+  2
+ ],
+ [
+  "error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) psr0=00001f01 psr1=00000000 prxf=00000002 pixf=00000007",
+  "00000002",
+  "VAR",
+  0
+ ],
+ [
+  "arpt: 673431.714836: wl0: setup_keepalive: local port: 50601, remote port: 5223",
+  "5223",
+  "PORT",
+  3
+ ],
+ [
+  "retrying connect to server: msra-sa-41:8030. already tried 0 time(s); retry policy is retryuptomaximumcountwithfixedsleep(maxretries=10, sleeptime=1000 milliseconds)",
+  "0",
+  "COUNT",
+  1
+ ],
+ [
+  "arpt: 640362.070027: wl0: wl_update_tcpkeep_seq: original seq: 2000710617, ack: 2120985509, win size: 4096",
+  "4096",
+  "COUNT",
+  1
+ ],
+ [
+  "4 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected",
+  "2",
+  "STATE",
+  2
+ ],
+ [
+  "successfully started service 'org.apache.spark.network.netty.nettyblocktransferservice' on port 40984.",
+  "40984.",
+  "PORT",
+  3
+ ],
+ [
+  "registered protocol family 2",
+  "2",
+  "STATE",
+  2
+ ],
+ [
+  "hci daemon ver 2.4 started",
+  "2.4",
+  "VAR",
+  0
+ ],
+ [
+  "pe/pv model: 1x2 scsi bp rev: 1.0",
+  "1.0",
+  "STATE",
+  2
+ ],
+ [
+  "could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "applethunderboltgenerichal::earlywake - complete - took 1 milliseconds",
+  "1",
+  "COUNT",
+  1
+ ],
+ [
+  "kernel time sync enabled 0001",
+  "0001",
+  "STATE",
+  2
+ ],
+ [
+  "10.11.10.1 \"get /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail http/1.1\" status: 200 len: 1893 time: 0.2672610",
+  "1893",
+  "COUNT",
+  1
+ ],
+ [
+  "activitymanagerservice,attachapplication,callingpid = 13003",
+  "13003",
+  "VAR",
+  0
+ ],
+ [
+  "chargingspeed  wattage: -1 st: 5000000 --> 7500000",
+  "7500000",
+  "VAR",
+  0
+ ],
+ [
+  "probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0",
+  "0",
+  "VAR",
+  0
+ ],
+ [
+  "warning: hibernate_page_list_setall skipped 11799 xpmapped pages",
+  "11799",
+  "COUNT",
+  1
+ ],
+ [
+  "hibernate_machine_init pagesdone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 mb/s, comp bytes: 47288320 time: 32 ms 1369 mb/s, crypt bytes: 158441472 time: 38 ms 3973 mb/s",
+  "1369",
+  "COUNT",
+  1
+ ],
+ [
+  "server created on 40984",
+  "40984",
+  "VAR",
+  0
+ ],
+ [
+  "ciod: error loading /g/g24/buber/yunsic/bluegene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160",
+  "361544528",
+  "COUNT",
+  1
+ ],
+ [
+  "kernel detected 3486044 integer alignment exceptions (3486037) iar 0x00544ea8, dear 0x01ef7c60 (3486038) iar 0x00544eb8, dear 0x01ef7c80 (3486039) iar 0x00544ea8, dear 0x01ef7ca0 (3486040) iar 0x00544eb8, dear 0x01ef7cc0 (3486041) iar 0x00544ee0, dear 0x01ef7ce0 (3486042) iar 0x00544ef0, dear 0x01ef7d00 (3486043) iar 0x00544ee0, dear 0x01ef7d20 (3486044) iar 0x00544ef0, dear 0x01ef7d40",
+  "3486044",
+  "COUNT",
+  1
+ ],
+ [
+  "unexpected payload found for message 9, datalen 0",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "autopurge.purgeinterval set to 0",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0",
+  "9782",
+  "VAR",
+  0
+ ],
+ [
+  "[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] attempting claim: memory 2048 mb, disk 20 gb, vcpus 1 cpu",
+  "2048",
+  "COUNT",
+  1
+ ],
+ [
+  "chromeexistion main isundetectwithcommand = 1",
+  "1",
+  "STATE",
+  2
+ ],
+ [
+  "block broadcast_36 stored as values in memory (estimated size 281.6 kb, free 803.9 kb)",
+  "281.6",
+  "COUNT",
+  1
+ ],
+ [
+  "notification: 3 (n.leader), 0x0 (n.zxid), 0x1 (n.round), looking (n.state), 3 (n.sid), 0x0 (n.peerepoch), looking (my state)",
+  "3",
+  "STATE",
+  2
+ ],
+ [
+  "did discard act 12083 inact 17640 purgeable 20264 spec 28635 cleaned 0",
+  "12083",
+  "COUNT",
+  1
+ ],
+ [
+  "[11:50:13.362] itemasync_setproperty signalled err= -12785 (kfigbaseobjecterror_invalidated) (invalidated) at /library/caches/com.apple.xbs/sources/coremedia/coremedia-1731.15.207/prototypes/player/figplayer_async.c line 2306",
+  "-12785",
+  "STATE",
+  2
+ ],
+ [
+  "did discard act 12083 inact 17640 purgeable 20264 spec 28635 cleaned 0",
+  "0",
+  "COUNT",
+  1
+ ],
+ [
+  "error in coredragremovereceivehandler: -1856",
+  "-1856",
+  "STATE",
+  2
+ ],
+ [
+  "error: bind to port 22 on 0.0.0.0 failed: address already in use.",
+  "22",
+  "PORT",
+  3
+ ],
+ [
+  "159 ddr error(s) detected and corrected on rank 0, symbol 29 over 2486 seconds",
+  "2486",
+  "COUNT",
+  1
+ ],
+ [
+  "routing cache hash table of 65536 buckets, 1024kbytes",
+  "65536",
+  "COUNT",
+  1
+ ],
+ [
+  "insertcallback() onsuccess  type = 0 data=true",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "getrunningappprocesses: caller 10113 does not hold real_get_tasks; limiting output",
+  "10113",
+  "VAR",
+  0
+ ],
+ [
+  "failed to stop a scan - central is not powered on: 4",
+  "4",
+  "STATE",
+  2
+ ],
+ [
+  "127.0.0.1:135 error : could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - proxy server cannot establish a connection with the target, status code 403",
+  "403",
+  "STATE",
+  2
+ ],
+ [
+  "arpt: 640362.070027 : wl0: wl_update_tcpkeep_seq: original seq: 2000710617 , ack: 2120985509, win size: 4096",
+  "640362.070027",
+  "VAR",
+  0
+ ],
+ [
+  "ciod: error loading /g/g24/buber/yunsic/bluegene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160",
+  "266076160",
+  "COUNT",
+  1
+ ],
+ [
+  "send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.",
+  "445",
+  "VAR",
+  0
+ ],
+ [
+  "following - leader election took - 238",
+  "238",
+  "COUNT",
+  1
+ ],
+ [
+  "failed subcommands 3406",
+  "3406",
+  "COUNT",
+  1
+ ],
+ [
+  "maxtaskfailurespernode is 3",
+  "3",
+  "COUNT",
+  1
+ ],
+ [
+  "number of reduces for job job_1445144423722_0020 = 1",
+  "1",
+  "COUNT",
+  1
+ ],
+ [
+  "pm response took 129 ms (10018, qq)",
+  "129",
+  "COUNT",
+  1
+ ],
+ [
+  "[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] took 1.02 seconds to destroy the instance on the hypervisor.",
+  "1.02",
+  "COUNT",
+  1
+ ],
+ [
+  "playsoundeffect   effecttype: 0",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "on node 0 totalpages: 32430",
+  "0",
+  "STATE",
+  2
+ ],
+ [
+  "total of 1 ddr error(s) detected and corrected",
+  "1",
+  "COUNT",
+  1
+ ],
+ [
+  "10.11.10.1 \"delete /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/c62f4f25-982c-4ea2-b5e4-93000edfcfbf http/1.1\" status: 204 len: 203 time: 0.2904921",
+  "0.2904921",
+  "COUNT",
+  1
+ ]
+]
